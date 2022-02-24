@@ -4158,3 +4158,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.24-16.23.20:542][633]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2022.02.24-16.23.20:808][633]LogExit: Preparing to exit.
 [2022.02.24-16.23.22:724][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.02.24-16.23.25:131][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:131][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:131][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:131][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:131][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:131][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:131][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:131][633]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.24-16.23.25:142][633]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.24-16.23.25:143][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:143][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:143][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:143][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:143][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:143][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:143][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:143][633]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.24-16.23.25:144][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:144][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:144][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:144][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:144][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:144][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:144][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2022.02.24-16.23.25:144][633]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.24-16.23.25:146][633]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.02.24-16.23.25:148][633]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.24-16.23.25:149][633]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.02.24-16.23.28:246][633]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.24-16.23.28:440][633]LogExit: Editor shut down
+[2022.02.24-16.23.28:513][633]LogExit: Transaction tracking system shut down
+[2022.02.24-16.23.28:763][633]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.02.24-16.23.36:916][633]LogExit: Object subsystem successfully closed.
+[2022.02.24-16.23.36:989][633]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.24-16.23.36:998][633]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2022.02.24-16.23.36:998][633]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 7 distinct outputs (58.33%)
+[2022.02.24-16.23.37:014][633]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.02.24-16.23.37:014][633]LogShaderCompilers: Display: ================================================
+[2022.02.24-16.23.37:614][633]LogShaderCompilers: Display: Shaders left to compile 0
