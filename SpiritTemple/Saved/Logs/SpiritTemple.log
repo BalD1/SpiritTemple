@@ -5454,3 +5454,47 @@ Make sure 'FirstPersonCharacter_C' has been compiled for  Get FirePoint
 [2022.02.26-14.10.28:671][345]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.26-14.10.28:671][345]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/greybox_BuiltData.greybox_BuiltData
 [2022.02.26-14.10.28:671][345]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.02.26-14.13.16:117][843]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2022.02.26-14.13.19:187][174]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (1M_Cube_DM)
+[2022.02.26-14.13.20:554][318]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.02.26-14.13.23:888][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.26-14.13.24:122][695]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.02.26-14.13.24:573][695]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greyboxEF85288C47E73BC3FAE128ACDEA804FC.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.02.26-14.13.24:586][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox_BuiltData" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset" SILENT=true
+[2022.02.26-14.13.25:149][695]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greybox_BuiltData855EBFEE40DA17C821D38C895414776C.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset'
+[2022.02.26-14.13.25:161][695]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.26-14.13.25:161][695]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/greybox_BuiltData.greybox_BuiltData
+[2022.02.26-14.13.25:161][695]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.02.26-14.14.05:275][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.26-14.14.07:566][366]LogSlate: Window 'Save Content' being destroyed
+[2022.02.26-14.14.07:625][366]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/M_Basic_Wall7AB75AA64C0182D11F975C80A0498BFC.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/StarterContent/Materials/M_Basic_Wall.uasset'
+[2022.02.26-14.14.07:726][366]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/M_Brick_Cut_Stone8B5F250A43FDAB39D4C548B91BFCFA25.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset'
+[2022.02.26-14.14.07:937][366]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/M_Rock_BasaltDA80AFB84246D19E6B04A0B97D08D3BD.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/StarterContent/Materials/M_Rock_Basalt.uasset'
+[2022.02.26-14.14.08:056][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.02.26-14.14.08:094][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.02.26-14.14.08:122][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.02.26-14.14.08:249][366]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.26-14.14.08:249][366]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-14.14.08:249][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-14.14.08:637][366]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.26-14.14.08:637][366]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-14.14.08:637][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-14.14.08:926][366]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.26-14.14.08:926][366]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-14.14.08:926][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-14.14.09:198][366]LogSlate: Window 'SpiritTemple - Unreal Editor' being destroyed
+[2022.02.26-14.14.10:401][366]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.26-14.14.10:401][366]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Rock_Basalt.M_Rock_Basalt
+[2022.02.26-14.14.10:401][366]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Brick_Cut_Stone.M_Brick_Cut_Stone
+[2022.02.26-14.14.10:401][366]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2022.02.26-14.14.10:481][367]Cmd: QUIT_EDITOR
+[2022.02.26-14.14.10:543][367]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.02.26-14.14.11:055][367]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.02.26-14.14.13:077][367]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.02.26-14.14.13:078][367]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.02.26-14.14.13:078][367]LogAudio: Display: Audio Device unregistered from world 'greybox'.
+[2022.02.26-14.14.13:078][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-14.14.13:089][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-14.14.13:180][367]LogAudio: Display: Audio Device Manager Shutdown
+[2022.02.26-14.14.13:211][367]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.26-14.14.13:454][367]LogExit: Preparing to exit.
