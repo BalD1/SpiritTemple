@@ -1,0 +1,1719 @@
+﻿Log file open, 02/26/22 16:55:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SpiritTemple
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264372
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MultiUserTakes
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Mounting plugin ConcertSyncClient
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Engine.ini]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Engine.ini]
+[2022.02.26-15.55.23:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Engine.ini]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Engine.ini]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.26-15.55.23:724][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.26-15.55.23:725][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Engine.ini]
+[2022.02.26-15.55.23:725][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Engine.ini]
+[2022.02.26-15.55.23:734][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:734][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.26-15.55.23:734][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.26-15.55.23:735][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.26-15.55.23:736][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.26-15.55.23:736][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.26-15.55.23:736][  0]LogHAL: Display: Platform has ~ 8 GB [8510078976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.26-15.55.23:736][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.26-15.55.23:736][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.26-15.55.23:736][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Scalability.ini]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.26-15.55.23:737][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.26-15.55.23:738][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.26-15.55.23:738][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.26-15.55.23:738][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.26-15.55.23:738][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Engine.ini]
+[2022.02.26-15.55.23:738][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Config/Windows/Editor.ini]
+[2022.02.26-15.55.23:738][  0]LogInit: Computer: LAPTOP-UP2MKVUM
+[2022.02.26-15.55.23:738][  0]LogInit: User: Flori
+[2022.02.26-15.55.23:738][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.26-15.55.23:738][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.26-15.55.23:738][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.02.26-15.55.23:738][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.26-15.55.23:738][  0]LogMemory: Process Physical Memory: 143.52 MB used, 143.52 MB peak
+[2022.02.26-15.55.23:738][  0]LogMemory: Process Virtual Memory: 113.96 MB used, 113.96 MB peak
+[2022.02.26-15.55.23:738][  0]LogMemory: Physical Memory: 5822.25 MB used,  2293.60 MB free, 8115.84 MB total
+[2022.02.26-15.55.23:738][  0]LogMemory: Virtual Memory: 134213008.00 MB used,  4720.27 MB free, 134217728.00 MB total
+[2022.02.26-15.55.23:744][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.26-15.55.23:799][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.26-15.55.23:800][  0]LogInit: Using OS detected language (fr-FR).
+[2022.02.26-15.55.23:800][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.02.26-15.55.23:803][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2022.02.26-15.55.23:804][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.02.26-15.55.23:804][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.02.26-15.55.23:804][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.02.26-15.55.23:804][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.02.26-15.55.23:804][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.02.26-15.55.23:804][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.02.26-15.55.23:804][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.02.26-15.55.23:805][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.26-15.55.23:818][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.26-15.55.23:861][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.26-15.55.23:861][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.26-15.55.24:123][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.02.26-15.55.24:128][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.26-15.55.24:128][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.26-15.55.24:128][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.26-15.55.24:128][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.26-15.55.24:274][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2022.02.26-15.55.24:274][  0]LogD3D11RHI:       6052/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.26-15.55.24:277][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.26-15.55.24:277][  0]LogD3D11RHI:       0/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI:    2. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI:       6052/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI:     SubSysId    : 11d710de
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI:     SharedSystemMemory : 4255039488 bytes
+[2022.02.26-15.55.24:347][  0]LogD3D11RHI:     AdapterLuid : 0 60599
+[2022.02.26-15.55.24:353][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.26-15.55.24:353][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.26-15.55.24:353][  0]LogWindows: EnumDisplayDevices:
+[2022.02.26-15.55.24:353][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.02.26-15.55.24:354][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.02.26-15.55.24:354][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.02.26-15.55.24:354][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.02.26-15.55.24:354][  0]LogWindows:    4. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:355][  0]LogWindows:    5. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:355][  0]LogWindows:    6. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:355][  0]LogWindows:    7. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:355][  0]LogWindows:    8. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:356][  0]LogWindows:    9. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:356][  0]LogWindows:    10. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:356][  0]LogWindows:    11. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:356][  0]LogWindows:    12. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:357][  0]LogWindows:    13. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:357][  0]LogWindows:    14. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:357][  0]LogWindows:    15. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:357][  0]LogWindows:    16. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:358][  0]LogWindows:    17. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:358][  0]LogWindows:    18. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:358][  0]LogWindows:    19. 'LuminonCore IDDCX Adapter' (P:0 D:0)
+[2022.02.26-15.55.24:358][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.02.26-15.55.24:358][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.02.26-15.55.24:358][  0]LogD3D11RHI:   Driver Version: 511.23 (internal:30.0.15.1123, unified:511.23)
+[2022.02.26-15.55.24:358][  0]LogD3D11RHI:      Driver Date: 1-10-2022
+[2022.02.26-15.55.24:359][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.02.26-15.55.24:359][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.02.26-15.55.24:359][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.02.26-15.55.24:359][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.26-15.55.24:359][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.02.26-15.55.24:359][  0]LogD3D11RHI:     SubSysId    : 11d710de
+[2022.02.26-15.55.24:359][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.26-15.55.24:359][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.02.26-15.55.24:359][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.26-15.55.24:359][  0]LogD3D11RHI:     SharedSystemMemory : 4255039488 bytes
+[2022.02.26-15.55.24:359][  0]LogD3D11RHI:     AdapterLuid : 0 60599
+[2022.02.26-15.55.24:420][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.26-15.55.24:420][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.26-15.55.24:420][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.26-15.55.24:461][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.26-15.55.24:513][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.26-15.55.24:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.26-15.55.24:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.26-15.55.24:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.26-15.55.24:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.26-15.55.24:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.26-15.55.24:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.26-15.55.24:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.26-15.55.24:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.26-15.55.24:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.26-15.55.24:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.26-15.55.24:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.26-15.55.24:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.26-15.55.24:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.26-15.55.24:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.26-15.55.24:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.26-15.55.24:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.26-15.55.24:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.26-15.55.24:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.26-15.55.24:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.26-15.55.24:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.26-15.55.24:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.26-15.55.24:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.26-15.55.24:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.26-15.55.24:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.26-15.55.24:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.26-15.55.24:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.26-15.55.24:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.26-15.55.24:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.26-15.55.24:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.26-15.55.24:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.26-15.55.24:976][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.26-15.55.24:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.26-15.55.24:981][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.26-15.55.24:990][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.26-15.55.25:022][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.02.26-15.55.25:058][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.26-15.55.25:058][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Intermediate/Shaders/WorkingDirectory/17196/).
+[2022.02.26-15.55.25:059][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Flori/AppData/Local/Temp/UnrealShaderWorkingDir/AE0FB2444AD837B769B0279BCC8F1871/'.
+[2022.02.26-15.55.25:059][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.26-15.55.25:059][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.26-15.55.25:059][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.26-15.55.25:850][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.26-15.55.25:923][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/Flori/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.26-15.55.25:923][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Flori/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.02.26-15.55.25:923][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.26-15.55.25:923][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.26-15.55.25:923][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.26-15.55.25:923][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.26-15.55.25:939][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.26-15.55.25:939][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.26-15.55.25:939][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.26-15.55.25:958][  0]LogDerivedDataCache: Speed tests for C:/Users/Flori/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.02.26-15.55.25:958][  0]LogDerivedDataCache: Display: Performance to C:/Users/Flori/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=986.62MBs, RandomWriteSpeed=54.21MBs. Assigned SpeedClass 'Local'
+[2022.02.26-15.55.25:959][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Flori/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.26-15.55.25:959][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.26-15.55.25:959][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.26-15.55.26:008][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.26-15.55.26:008][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.26-15.55.26:043][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2022.02.26-15.55.26:288][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.26-15.55.26:288][  0]LogInit: Active device profile: [000001D37BB08B00][000001D36F0AB6C0 49] Windows
+[2022.02.26-15.55.26:288][  0]LogInit: Profiles: [000001D37BB08B00][000001D36F0AB6C0 49] Windows, [000001D37BAC2100][000001D37947D840 49] WindowsNoEditor, [000001D37BB09900][000001D3794819C0 49] WindowsServer, [000001D37BAC2E00][000001D379485B40 49] WindowsClient, [000001D37BB0BC00][000001D379488140 49] IOS, [000001D37BAC0F00][000001D37948C2C0 49] iPadAir, [000001D37BB0BE00][000001D379490440 49] iPadAir2, [000001D37BA5CE00][000001D379498700 49] IPadPro, [000001D37BA5CF00][000001D379494740 49] iPadAir3, [000001D37BAC3B00][000001D37949C8C0 49] iPadAir4, [000001D37BA5F800][000001D379478A00 49] iPadMini2, [000001D37BAC2F00][000001D37B75CB40 49] iPadMini3, [000001D37BA5FA00][000001D37B760C80 49] iPadMini4, [000001D37BAC3700][000001D37B764DC0 49] iPadMini5, [000001D37BA88600][000001D37B771080 49] iPhone6, [000001D37BA88700][000001D37B76D0C0 49] iPodTouch6, [000001D37BB0A900][000001D37B779380 49] iPhone7, [000001D37BB0A600][000001D37B7753C0 49] iPodTouch7, [000001D37BA88100][000001D37B77D540 49] iPhone5S, [000001D37BA5C700][000001D37B7816C0 49] iPhone6Plus, [000001D37BA8A500][000001D37B785840 49] iPhone6S, [000001D37BA5D200][000001D37B7899C0 49] iPhone6SPlus, [000001D37BA8BB00][000001D37B78DB40 49] iPhone7Plus, [000001D37BA5F700][000001D37B790140 49] iPhoneSE, [000001D37BB0AC00][000001D37B7942C0 49] iPhone8, [000001D37BA5C600][000001D37B798440 49] iPhone8Plus, [000001D37BB0A100][000001D37B79C5C0 49] iPhoneX, [000001D37BA5EA00][000001D37B7A0740 49] iPhoneXS, [000001D37BB0B200][000001D37B7A48C0 49] iPhoneXSMax, [000001D37BA5EF00][000001D37B7A8A40 49] iPhoneXR, [000001D37BB0BB00][000001D37B768B80 49] iPhone11, [000001D37BA5DD00][000001D37B7ACCC0 49] iPhone11Pro, [000001D37BB08600][000001D37B7B0E00 49] iPhone11ProMax, [000001D37BA5E100][000001D37B7B4F40 49] iPhoneSE2, [000001D37BB0BA00][000001D37B7BD0C0 49] iPhone12Mini, [000001D37BA5E200][000001D37B7C1240 49] iPhone12, [000001D37BB08700][000001D37B7C53C0 49] iPhone12Pro, [000001D37BA5E400][000001D37B7C9540 49] iPhone12ProMax, [000001D37BB09200][000001D37B7CD6C0 49] iPadPro105, [000001D37BA5D900][000001D37B7D1840 49] iPadPro129, [000001D37BB08400][000001D37B7D59C0 49] iPadPro97, [000001D37BA5FC00][000001D37B7D9B40 49] iPadPro2_129, [000001D37BB0B900][000001D37B7DC140 49] iPad5, [000001D37BA5C300][000001D37B7E02C0 49] iPad6, [000001D37BB09B00][000001D37B7E4440 49] iPad7, [000001D37BA5E500][000001D37B7E85C0 49] iPad8, [000001D37BB09700][000001D37B7EC740 49] iPadPro11, [000001D37BA5F900][000001D37B7F08C0 49] iPadPro2_11, [000001D37BB09400][000001D37B7F4A40 49] iPadPro3_129, [000001D37BA5E300][000001D37B7F8BC0 49] iPadPro4_129, [000001D37BB0B700][000001D37B7FCD40 49] AppleTV, [000001D37BA5FB00][000001D37B7B8E80 49] AppleTV4K, [000001D37BB09D00][000001D37B800FC0 49] TVOS, [000001D37BA5C800][000001D37B805100 49] Mac, [000001D37BB0A400][000001D37B80D280 49] MacClient, [000001D37BA5ED00][000001D37B811400 49] MacNoEditor, [000001D37BB0B500][000001D37B815580 49] MacServer, [000001D37BA5CA00][000001D37B819700 49] Linux, [000001D37BB0AB00][000001D37B81D880 49] LinuxAArch64, [000001D37BA5E900][000001D37B821A00 49] LinuxNoEditor, [000001D37BB0A500][000001D37B825B80 49] LinuxAArch64NoEditor, [000001D37BA5CD00][000001D37B828180 49] LinuxClient, [000001D37BB08D00][000001D37B82C300 49] LinuxAArch64Client, [000001D37BA5DF00][000001D37B830480 49] LinuxServer, [000001D37BB0B100][000001D37B834600 49] LinuxAArch64Server, [000001D37BA5D100][000001D37B838780 49] Android, [000001D37BB0AE00][000001D37B83C900 49] Android_Low, [000001D37BA5F400][000001D37B840A80 49] Android_Mid, [000001D37BB0A200][000001D37B844C00 49] Android_High, [000001D37BA5D000][000001D37B848D80 49] Android_Default, [000001D37BB09300][000001D37B84CF00 49] Android_Adreno4xx, [000001D37BAC2300][000001D37B809040 49] Android_Adreno5xx_Low, [000001D37BA89C00][000001D37B851180 49] Android_Adreno5xx, [000001D37BAC3600][000001D37B8552C0 49] Android_Adreno6xx, [000001D37BA8A000][000001D37B85D440 49] Android_Adreno6xx_Vulkan, [000001D37BAC0400][000001D37B8615C0 49] Android_Mali_T6xx, [000001D37BA88F00][000001D37B865740 49] Android_Mali_T7xx, [000001D37BAC1E00][000001D37B8698C0 49] Android_Mali_T8xx, [000001D37BA89F00][000001D37B86DA40 49] Android_Mali_G71, [000001D37BAC2800][000001D37B871BC0 49] Android_Mali_G72, [000001D37BA8AF00][000001D37B8741C0 49] Android_Mali_G72_Vulkan, [000001D37BAC3E00][000001D37B878340 49] Android_Mali_G76, [000001D37BA8A200][000001D37B87C4C0 49] Android_Mali_G76_Vulkan, [000001D37BAC1D00][000001D37B880640 49] Android_Mali_G77, [000001D37BA8AC00][000001D37B8847C0 49] Android_Mali_G77_Vulkan, [000001D37BAC3400][000001D37B888940 49] Android_Mali_G78, [000001D37BA89300][000001D37B88CAC0 49] Android_Mali_G78_Vulkan, [000001D37BAC1300][000001D37B890C40 49] Android_Mali_G710, [000001D37BA88500][000001D37B894DC0 49] Android_Mali_G710_Vulkan, [000001D37BAC0700][000001D37B898F40 49] Android_Vulkan_SM5, [000001D37BA8BF00][000001D37B89D0C0 49] Android_PowerVR_G6xxx, [000001D37BAC1F00][000001D37B859200 49] Android_PowerVR_GT7xxx, [000001D37BA8B000][000001D37B8A1340 49] Android_PowerVR_GE8xxx, [000001D37BAC3800][000001D37B8A5480 49] Android_PowerVR_GM9xxx, [000001D37BA8A800][000001D37B8A95C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001D37BAC1600][000001D36A76D740 49] Android_TegraK1, [000001D37BA89700][000001D36A7718C0 49] Android_Unknown_Vulkan, [000001D37BAC3300][000001D36A775A40 49] Lumin, [000001D37BA8BC00][000001D36A779BC0 49] Lumin_Desktop, [000001D37BAC0E00][000001D36A77C1C0 49] HoloLens, 
+[2022.02.26-15.55.26:425][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.26-15.55.26:425][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.26-15.55.26:425][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.26-15.55.26:425][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.26-15.55.26:425][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.26-15.55.26:447][  0]LogNetVersion: SpiritTemple 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1017783411)
+[2022.02.26-15.55.26:915][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.26-15.55.26:980][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.26-15.55.26:986][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.02.26-15.55.26:986][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.02.26-15.55.26:986][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.26-15.55.27:300][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0C3069684F2AF3D8F151D9BE75CE406D | Instance: 7E73BED743518E19871D0C9D2F2CA53E (LAPTOP-UP2MKVUM-17196).
+[2022.02.26-15.55.27:424][  0]LogPython: Using Python 3.7.7
+[2022.02.26-15.55.27:955][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.26-15.55.27:960][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.26-15.55.28:326][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2022.02.26-15.55.28:326][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2022.02.26-15.55.28:326][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2022.02.26-15.55.28:410][  0]SourceControl: Source control is disabled
+[2022.02.26-15.55.28:410][  0]SourceControl: Source control is disabled
+[2022.02.26-15.55.28:414][  0]SourceControl: Source control is disabled
+[2022.02.26-15.55.28:417][  0]SourceControl: Source control is disabled
+[2022.02.26-15.55.28:426][  0]SourceControl: Source control is disabled
+[2022.02.26-15.55.28:435][  0]LogUProjectInfo: Found projects:
+[2022.02.26-15.55.28:689][  0]LogOpenImageDenoise: OIDN starting up
+[2022.02.26-15.55.28:738][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.26-15.55.28:763][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.26-15.55.28:763][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.26-15.55.29:072][  0]LogCollectionManager: Loaded 0 collections in 0.000771 seconds
+[2022.02.26-15.55.29:099][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Collections/' took 0.00s
+[2022.02.26-15.55.29:099][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Developers/Flori/Collections/' took 0.00s
+[2022.02.26-15.55.29:100][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Collections/' took 0.00s
+[2022.02.26-15.55.29:100][  0]LogOcInput: OculusInput pre-init called
+[2022.02.26-15.55.29:423][  0]LogClass: Display: EnumProperty FMultiUserClientConfig::ValidationMode is not initialized properly. Module:MultiUserClientLibrary File:Public/MultiUserClientStatics.h
+[2022.02.26-15.55.29:423][  0]LogClass: Display: StructProperty FMultiUserClientInfo::AvatarColor is not initialized properly. Module:MultiUserClientLibrary File:Public/MultiUserClientStatics.h
+[2022.02.26-15.55.29:423][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2022.02.26-15.55.29:424][  0]LogEngine: Initializing Engine...
+[2022.02.26-15.55.29:479][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.02.26-15.55.29:492][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.26-15.55.29:500][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.26-15.55.29:501][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.26-15.55.29:663][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.26-15.55.29:673][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.26-15.55.29:673][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.26-15.55.29:677][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.02.26-15.55.29:677][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.02.26-15.55.29:678][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.26-15.55.29:678][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.26-15.55.29:678][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-15.55.29:678][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-15.55.29:678][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-15.55.29:678][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-15.55.29:678][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-15.55.29:678][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-15.55.29:678][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-15.55.29:678][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-15.55.29:678][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-15.55.29:678][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-15.55.29:678][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-15.55.29:678][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-15.55.29:694][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-15.55.29:694][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-15.55.29:713][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (G935 Gaming Headset)
+[2022.02.26-15.55.29:714][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-15.55.29:717][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-15.55.29:717][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-15.55.29:718][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-15.55.29:718][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-15.55.29:718][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-15.55.29:720][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-15.55.29:720][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-15.55.29:720][  0]LogInit: FAudioDevice initialized.
+[2022.02.26-15.55.29:720][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.26-15.55.29:720][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.26-15.55.32:138][  0]LogDerivedDataCache: Saved boot cache 2.42s 94MB C:/Users/Flori/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.26-15.55.32:139][  0]LogInit: Texture streaming: Enabled
+[2022.02.26-15.55.32:153][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.02.26-15.55.32:157][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.26-15.55.32:157][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.26-15.55.32:164][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.26-15.55.32:195][  0]LogInit: Transaction tracking system initialized
+[2022.02.26-15.55.32:218][  0]BlueprintLog: New page: Editor Load
+[2022.02.26-15.55.32:279][  0]LocalizationService: Localization service is disabled
+[2022.02.26-15.55.32:308][  0]TimingProfiler: Initialize
+[2022.02.26-15.55.32:308][  0]TimingProfiler: OnSessionChanged
+[2022.02.26-15.55.32:308][  0]LoadingProfiler: Initialize
+[2022.02.26-15.55.32:308][  0]LoadingProfiler: OnSessionChanged
+[2022.02.26-15.55.32:308][  0]NetworkingProfiler: Initialize
+[2022.02.26-15.55.32:308][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.26-15.55.32:308][  0]MemoryProfiler: Initialize
+[2022.02.26-15.55.32:308][  0]MemoryProfiler: OnSessionChanged
+[2022.02.26-15.55.32:523][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.26-15.55.32:523][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.26-15.55.32:765][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/' took 0.02s
+[2022.02.26-15.55.33:012][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.26-15.55.33:016][  0]SourceControl: Source control is disabled
+[2022.02.26-15.55.33:016][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.207
+[2022.02.26-15.55.33:016][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.26-15.55.33:016][  0]LogEditorServer: Warning: Can't find file '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.02.26-15.55.33:016][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.26-15.55.33:017][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,107ms to complete.
+[2022.02.26-15.55.33:017][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.000
+[2022.02.26-15.55.33:019][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.209
+[2022.02.26-15.55.33:429][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-15.55.33:435][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-15.55.33:441][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-15.55.33:447][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-15.55.33:561][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0264 seconds. Added 3843 classes and 954 folders.
+[2022.02.26-15.55.33:675][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.26-15.55.33:780][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.26-15.55.33:780][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:780][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.26-15.55.33:803][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:803][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.02.26-15.55.33:803][  0]LogPakFile: OnPakFileMounted2Time == 0.023374
+[2022.02.26-15.55.33:822][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.26-15.55.33:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.26-15.55.33:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.02.26-15.55.33:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.02.26-15.55.33:829][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.26-15.55.33:829][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:829][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.26-15.55.33:829][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:829][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.02.26-15.55.33:829][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.02.26-15.55.33:846][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.26-15.55.33:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.26-15.55.33:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.02.26-15.55.33:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.02.26-15.55.33:860][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.26-15.55.33:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:860][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.26-15.55.33:860][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:860][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.02.26-15.55.33:860][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.26-15.55.33:872][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.26-15.55.33:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.26-15.55.33:872][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:872][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.02.26-15.55.33:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.26-15.55.33:886][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.26-15.55.33:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.26-15.55.33:886][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:886][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.02.26-15.55.33:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.02.26-15.55.33:889][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.26-15.55.33:889][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:889][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.26-15.55.33:889][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:889][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.02.26-15.55.33:889][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.02.26-15.55.33:898][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.26-15.55.33:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.26-15.55.33:898][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:898][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.02.26-15.55.33:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.26-15.55.33:964][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.26-15.55.33:964][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:964][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.26-15.55.33:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:964][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.02.26-15.55.33:964][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.02.26-15.55.33:973][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.26-15.55.33:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.26-15.55.33:973][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:973][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.02.26-15.55.33:973][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.26-15.55.33:994][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.26-15.55.33:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.33:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.26-15.55.33:994][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.33:994][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.02.26-15.55.33:994][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.02.26-15.55.34:008][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.26-15.55.34:008][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:008][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.26-15.55.34:008][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:008][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.02.26-15.55.34:008][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.26-15.55.34:027][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.26-15.55.34:027][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:027][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.26-15.55.34:027][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:027][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.02.26-15.55.34:027][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.26-15.55.34:029][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.26-15.55.34:029][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:029][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.26-15.55.34:029][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:029][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.02.26-15.55.34:029][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.02.26-15.55.34:043][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.26-15.55.34:043][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:043][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.26-15.55.34:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.02.26-15.55.34:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.02.26-15.55.34:045][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.26-15.55.34:045][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:045][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.26-15.55.34:045][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:045][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.02.26-15.55.34:045][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.26-15.55.34:056][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.26-15.55.34:056][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:056][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.26-15.55.34:056][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:056][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.02.26-15.55.34:056][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.02.26-15.55.34:059][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.26-15.55.34:059][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:059][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.26-15.55.34:059][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:059][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.02.26-15.55.34:059][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.02.26-15.55.34:061][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.26-15.55.34:061][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:061][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.26-15.55.34:061][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:061][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.02.26-15.55.34:061][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.26-15.55.34:063][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.26-15.55.34:063][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:063][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.26-15.55.34:063][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:063][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.02.26-15.55.34:063][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.02.26-15.55.34:077][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.26-15.55.34:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.26-15.55.34:077][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.02.26-15.55.34:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.02.26-15.55.34:092][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.26-15.55.34:092][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:092][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.26-15.55.34:092][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:092][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.02.26-15.55.34:092][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.02.26-15.55.34:094][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.26-15.55.34:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.26-15.55.34:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.02.26-15.55.34:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.26-15.55.34:096][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.26-15.55.34:096][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:096][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.26-15.55.34:096][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:096][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.02.26-15.55.34:096][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.02.26-15.55.34:099][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.26-15.55.34:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.26-15.55.34:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.26-15.55.34:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Unreal Engine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.26-15.55.34:099][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Unreal Engine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.02.26-15.55.34:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.02.26-15.55.34:978][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.26-15.55.34:979][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.02.26-15.55.35:221][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.26-15.55.35:244][  0]LogSlate: Took 0.022447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.26-15.55.35:261][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.26-15.55.35:578][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2022.02.26-15.55.35:789][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.26-15.55.35:789][  0]LogLoad: (Engine Initialization) Total time: 13.98 seconds
+[2022.02.26-15.55.35:789][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.26-15.55.35:848][  0]LogAssetRegistry: Asset discovery search completed in 9.8067 seconds
+[2022.02.26-15.55.35:895][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.02.26-15.55.35:897][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.26-15.55.36:024][  2]LogSlate: Took 0.016111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.26-15.55.36:807][ 68]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.26-15.55.41:557][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.02.26-15.55.43:320][580]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/greybox.greybox
+[2022.02.26-15.55.43:334][580]Cmd: MAP LOAD FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.26-15.55.43:334][580]LightingResults: New page: Lighting Build
+[2022.02.26-15.55.43:335][580]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2022.02.26-15.55.43:335][580]LoadErrors: New page: Loading map: greybox.umap
+[2022.02.26-15.55.43:358][580]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-15.55.43:358][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-15.55.43:358][580]MapCheck: New page: Map Check
+[2022.02.26-15.55.43:358][580]LightingResults: New page: Lighting Build
+[2022.02.26-15.55.43:362][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.26-15.55.43:366][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.26-15.55.43:367][580]LogAudio: Display: Audio Device (ID: 1) registered with world 'greybox'.
+[2022.02.26-15.55.43:396][580]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.26-15.55.43:396][580]LogAIModule: Creating AISystem for world greybox
+[2022.02.26-15.55.43:403][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.26-15.55.43:413][580]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.26-15.55.43:413][580]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,145ms to complete.
+[2022.02.26-15.55.43:413][580]LogFileHelpers: Loading map 'greybox' took 0.078
+[2022.02.26-15.55.51:220][463]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.26-15.55.51:258][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.26-15.55.51:258][463]PIE: New page: PIE session: greybox (26 févr. 2022 à 17:55:51)
+[2022.02.26-15.55.51:259][463]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.26-15.55.51:260][463]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.26-15.55.51:260][463]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_greybox
+[2022.02.26-15.55.51:279][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018295s)
+[2022.02.26-15.55.51:324][463]LogAIModule: Creating AISystem for world greybox
+[2022.02.26-15.55.51:325][463]LogPlayLevel: PIE: World Init took: (0.045749s)
+[2022.02.26-15.55.51:325][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/greybox.greybox to /Game/Maps/UEDPIE_0_greybox.greybox (0.064217s)
+[2022.02.26-15.55.51:330][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.26-15.55.51:332][463]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.26-15.55.51:332][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-15.55.51:332][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-15.55.51:332][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-15.55.51:332][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-15.55.51:332][463]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-15.55.51:332][463]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-15.55.51:332][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-15.55.51:332][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-15.55.51:333][463]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-15.55.51:333][463]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-15.55.51:333][463]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-15.55.51:333][463]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-15.55.51:338][463]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-15.55.51:338][463]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-15.55.51:351][463]LogAudioMixer: Display: Using Audio Device Haut-parleurs (G935 Gaming Headset)
+[2022.02.26-15.55.51:351][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-15.55.51:351][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-15.55.51:351][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-15.55.51:351][463]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-15.55.51:351][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-15.55.51:351][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-15.55.51:353][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-15.55.51:353][463]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-15.55.51:353][463]LogInit: FAudioDevice initialized.
+[2022.02.26-15.55.51:353][463]LogAudio: Display: Audio Device (ID: 2) registered with world 'greybox'.
+[2022.02.26-15.55.51:366][463]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.26-15.55.51:416][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2022.02.26-16.55.51
+[2022.02.26-15.55.51:416][463]LogWorld: Bringing up level for play took: 0.048995
+[2022.02.26-15.55.51:416][463]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.02.26-15.55.51:418][463]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.02.26-15.55.51:458][463]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.26-15.55.51:458][463]PIE: Server logged in
+[2022.02.26-15.55.51:460][463]PIE: Play in editor total start time 0,234 seconds.
+[2022.02.26-15.55.55:338][918]LogBlueprintUserMessages: [BP_DestroyableMeshBlock_2] Hello
+[2022.02.26-15.56.10:393][719]LogCharacterMovement: Player is stuck and failed to move! Velocity: X=429.68 Y=-418.78 Z=0.00 Location: X=-373.76 Y=244.16 Z=266.49 Normal: X=-0.36 Y=0.89 Z=-0.26 PenetrationDepth:11.592 Actor:BP_Projectile_C_2 Component:Mesh BoneName:None (0 other events since notify)
+[2022.02.26-15.56.17:004][512]LogCharacterMovement: Player is stuck and failed to move! Velocity: X=-413.45 Y=-240.20 Z=0.00 Location: X=267.46 Y=680.52 Z=266.37 Normal: X=0.11 Y=0.98 Z=-0.16 PenetrationDepth:8.183 Actor:BP_Projectile_C_14 Component:Mesh BoneName:None (0 other events since notify)
+[2022.02.26-15.56.28:348][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-15.56.28:348][866]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_greybox
+[2022.02.26-15.56.28:349][866]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-15.56.28:349][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-15.56.28:360][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.26-15.56.28:361][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-15.56.28:366][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-15.56.28:366][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-15.56.28:367][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-15.56.28:371][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.26-15.56.28:426][868]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.02.26-15.56.41:673][429]Cmd: EDIT COPY
+[2022.02.26-15.56.41:930][454]Cmd: EDIT PASTE
+[2022.02.26-15.56.51:108][506]Cmd: EDIT COPY
+[2022.02.26-15.56.52:591][682]Cmd: EDIT PASTE
+[2022.02.26-15.56.58:245][350]Cmd: TRANSACTION UNDO
+[2022.02.26-15.56.58:245][350]LogEditorTransaction: Undo Paste
+[2022.02.26-15.57.02:993][869]Cmd: EDIT PASTE
+[2022.02.26-15.57.18:070][555]Cmd: DELETE
+[2022.02.26-15.57.18:120][555]Cmd: ACTOR DELETE
+[2022.02.26-15.57.18:131][555]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.26-15.57.18:139][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.26-15.57.18:140][555]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.02.26-15.57.22:368][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.26-15.57.22:375][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.26-15.57.22:375][ 51]PIE: New page: PIE session: greybox (26 févr. 2022 à 17:57:22)
+[2022.02.26-15.57.22:408][ 51]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_greybox
+[2022.02.26-15.57.22:420][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013312s)
+[2022.02.26-15.57.22:421][ 51]LogAIModule: Creating AISystem for world greybox
+[2022.02.26-15.57.22:422][ 51]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2022.02.26-15.57.22:422][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/greybox.greybox to /Game/Maps/UEDPIE_0_greybox.greybox (0.014679s)
+[2022.02.26-15.57.22:428][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.26-15.57.22:429][ 51]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.26-15.57.22:429][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-15.57.22:429][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-15.57.22:429][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-15.57.22:429][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-15.57.22:429][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-15.57.22:429][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-15.57.22:429][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-15.57.22:429][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-15.57.22:430][ 51]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-15.57.22:430][ 51]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-15.57.22:430][ 51]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-15.57.22:430][ 51]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-15.57.22:435][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-15.57.22:435][ 51]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-15.57.22:446][ 51]LogAudioMixer: Display: Using Audio Device Haut-parleurs (G935 Gaming Headset)
+[2022.02.26-15.57.22:446][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-15.57.22:446][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-15.57.22:446][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-15.57.22:446][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-15.57.22:447][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-15.57.22:447][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-15.57.22:448][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-15.57.22:448][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-15.57.22:448][ 51]LogInit: FAudioDevice initialized.
+[2022.02.26-15.57.22:448][ 51]LogAudio: Display: Audio Device (ID: 3) registered with world 'greybox'.
+[2022.02.26-15.57.22:456][ 51]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.26-15.57.22:458][ 51]LogWorld: Bringing World /Game/Maps/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2022.02.26-16.57.22
+[2022.02.26-15.57.22:458][ 51]LogWorld: Bringing up level for play took: 0.001866
+[2022.02.26-15.57.22:459][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.02.26-15.57.22:460][ 51]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.02.26-15.57.22:461][ 51]PIE: Server logged in
+[2022.02.26-15.57.22:461][ 51]PIE: Play in editor total start time 0,09 seconds.
+[2022.02.26-15.57.24:793][324]LogBlueprintUserMessages: [BP_DestroyableMeshBlock_2] Hello
+[2022.02.26-15.57.42:609][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-15.57.42:609][455]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_greybox
+[2022.02.26-15.57.42:609][455]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-15.57.42:610][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-15.57.42:617][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.26-15.57.42:619][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-15.57.42:622][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-15.57.42:623][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-15.57.42:625][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-15.57.42:627][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.26-15.57.42:683][458]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.02.26-15.58.18:601][598]LogEditorViewport: Clicking on Actor (LMB): BP_Item_PW_Earth_C (BP_PW_Earth2)
+[2022.02.26-15.58.19:240][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Présentoir2)
+[2022.02.26-15.58.20:461][811]LogEditorViewport: Clicking on Actor (LMB): BP_Item_PW_Earth_C (BP_PW_Earth2)
+[2022.02.26-15.58.21:718][958]Cmd: DELETE
+[2022.02.26-15.58.21:718][958]Cmd: ACTOR DELETE
+[2022.02.26-15.58.21:721][958]LogEditorActor: Deleted Actor: BP_Item_PW_Earth_C
+[2022.02.26-15.58.21:726][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.26-15.58.21:727][958]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.02.26-15.58.23:782][190]LogEditorViewport: Clicking on Actor (LMB): BP_button_C (BP_button2)
+[2022.02.26-15.58.25:188][347]Cmd: DELETE
+[2022.02.26-15.58.25:188][347]Cmd: ACTOR DELETE
+[2022.02.26-15.58.25:190][347]LogEditorActor: Deleted Actor: BP_button_C
+[2022.02.26-15.58.25:195][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.02.26-15.58.25:196][347]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.02.26-15.58.42:675][368]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.26-15.58.44:731][368]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.26-15.58.44:737][368]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.26-15.58.44:746][368]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.26-15.59.48:297][983]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Torch
+[2022.02.26-15.59.48:328][983]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.26-15.59.49:603][127]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Torch.BP_Torch
+[2022.02.26-15.59.50:277][127]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.02.26-15.59.53:692][346]LogSlate: Took 0.012279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.26-15.59.54:572][422]LogRenderer: Reallocating scene render targets to support 1208x804 Format 10 NumSamples 1 (Frame:300).
+[2022.02.26-15.59.54:923][460]LogSlate: Window 'BP_Torch' being destroyed
+[2022.02.26-16.00.08:970][101]LogEditorTransaction: Undo Modify Component(s)
+[2022.02.26-16.00.11:779][383]LogEditorTransaction: Undo Modify Component(s)
+[2022.02.26-16.00.13:285][560]BlueprintLog: New page: Compile BP_Torch
+[2022.02.26-16.00.13:337][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.26-16.00.13:392][560]LogSlate: Took 0.010987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.26-16.00.13:622][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Torch" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset" SILENT=true
+[2022.02.26-16.00.13:669][580]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Torch9CE04BCE4EAD4AC20273DABE1191E7B7.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset'
+[2022.02.26-16.00.13:689][580]AssetCheck: New page: Asset Save: BP_Torch
+[2022.02.26-16.00.13:689][580]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Torch.BP_Torch
+[2022.02.26-16.00.18:979][140]Cmd: TRANSACTION UNDO
+[2022.02.26-16.00.18:979][140]LogEditorTransaction: Undo Move Actors
+[2022.02.26-16.00.19:328][150]Cmd: TRANSACTION UNDO
+[2022.02.26-16.00.19:328][150]LogEditorTransaction: Undo Create Actors
+[2022.02.26-16.00.26:944][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Torch" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset" SILENT=true
+[2022.02.26-16.00.26:975][ 33]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Torch963CE8DE42F6FF4400099EB678D5B29B.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset'
+[2022.02.26-16.00.26:986][ 33]AssetCheck: New page: Asset Save: BP_Torch
+[2022.02.26-16.00.26:986][ 33]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Torch.BP_Torch
+[2022.02.26-16.00.52:337][963]BlueprintLog: New page: Compile BP_Torch
+[2022.02.26-16.00.52:385][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.02.26-16.00.52:650][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Torch" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset" SILENT=true
+[2022.02.26-16.00.52:683][982]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_TorchD20BCA5B4AF3EB6CC2D17BA07DD8951F.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset'
+[2022.02.26-16.00.52:694][982]AssetCheck: New page: Asset Save: BP_Torch
+[2022.02.26-16.00.52:694][982]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Torch.BP_Torch
+[2022.02.26-16.01.10:083][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Torch" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset" SILENT=true
+[2022.02.26-16.01.10:114][ 21]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_TorchB1C0706C4E1ACBDC24232A9B722E54E4.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset'
+[2022.02.26-16.01.10:126][ 21]AssetCheck: New page: Asset Save: BP_Torch
+[2022.02.26-16.01.10:126][ 21]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Torch.BP_Torch
+[2022.02.26-16.02.27:846][926]BlueprintLog: New page: Compile BP_Torch
+[2022.02.26-16.02.27:912][926]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.02.26-16.02.28:168][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Torch" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset" SILENT=true
+[2022.02.26-16.02.28:203][946]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Torch89E9AC4645D8AA4115EA43A08ECDBE68.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset'
+[2022.02.26-16.02.28:217][946]AssetCheck: New page: Asset Save: BP_Torch
+[2022.02.26-16.02.28:217][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Torch.BP_Torch
+[2022.02.26-16.02.31:396][309]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.26-16.02.34:007][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Torch" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset" SILENT=true
+[2022.02.26-16.02.34:035][591]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Torch1C2F544041F1D4BE2BEB8EABF78B4464.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset'
+[2022.02.26-16.02.34:047][591]AssetCheck: New page: Asset Save: BP_Torch
+[2022.02.26-16.02.34:047][591]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Torch.BP_Torch
+[2022.02.26-16.03.01:082][876]BlueprintLog: New page: Compile BP_Torch
+[2022.02.26-16.03.01:126][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.02.26-16.03.01:364][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Torch" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset" SILENT=true
+[2022.02.26-16.03.01:389][898]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Torch4ECC018E4EA3D7B6CD0054A2332EE8BB.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset'
+[2022.02.26-16.03.01:401][898]AssetCheck: New page: Asset Save: BP_Torch
+[2022.02.26-16.03.01:401][898]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Torch.BP_Torch
+[2022.02.26-16.03.34:487][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.26-16.03.34:522][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.02.26-16.03.34:951][777]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greybox08C46FA04BCA7D4D994C63920736556D.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.02.26-16.03.34:966][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox_BuiltData" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset" SILENT=true
+[2022.02.26-16.03.35:999][777]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greybox_BuiltData65E4DBFE4BB4D68E68FC6FADDF2D77AD.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset'
+[2022.02.26-16.03.36:024][777]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.26-16.03.36:024][777]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/greybox_BuiltData.greybox_BuiltData
+[2022.02.26-16.03.36:024][777]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.02.26-16.03.39:023][ 87]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.04.11:775][902]LogEditorViewport: Clicking on Actor (LMB): BP_Item_PW_Earth_C (BP_PW_Earth)
+[2022.02.26-16.04.12:626][988]Cmd: EDIT COPY
+[2022.02.26-16.04.12:801][  8]Cmd: EDIT PASTE
+[2022.02.26-16.04.27:912][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Powers/Projecties/BP_Projectile.BP_Projectile
+[2022.02.26-16.04.28:248][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Powers/BP_Item_Powers.BP_Item_Powers
+[2022.02.26-16.04.28:579][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Powers/BP_Item_PW_Earth.BP_Item_PW_Earth
+[2022.02.26-16.04.39:668][128]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-16.04.39:669][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-16.04.39:724][128]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Powers/BP_Item_PW_Earth.BP_Item_PW_Earth
+[2022.02.26-16.06.06:959][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_Item_PW_Earth" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_PW_Earth.uasset" SILENT=true
+[2022.02.26-16.06.07:026][  2]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Item_PW_Earth4C7DC2FE46EE65BF7E7D2197B4A8B973.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_PW_Earth.uasset'
+[2022.02.26-16.06.07:043][  2]AssetCheck: New page: Asset Save: BP_Item_PW_Earth
+[2022.02.26-16.06.07:043][  2]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_Item_PW_Earth.BP_Item_PW_Earth
+[2022.02.26-16.06.11:490][497]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.26-16.06.11:498][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.26-16.06.11:498][497]PIE: New page: PIE session: greybox (26 févr. 2022 à 18:06:11)
+[2022.02.26-16.06.11:538][497]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_greybox
+[2022.02.26-16.06.11:553][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016067s)
+[2022.02.26-16.06.11:554][497]LogAIModule: Creating AISystem for world greybox
+[2022.02.26-16.06.11:555][497]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2022.02.26-16.06.11:555][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/greybox.greybox to /Game/Maps/UEDPIE_0_greybox.greybox (0.017567s)
+[2022.02.26-16.06.11:602][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.02.26-16.06.11:608][497]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.26-16.06.11:608][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-16.06.11:608][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-16.06.11:608][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-16.06.11:608][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-16.06.11:608][497]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-16.06.11:608][497]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-16.06.11:608][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-16.06.11:608][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-16.06.11:608][497]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-16.06.11:608][497]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-16.06.11:608][497]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-16.06.11:608][497]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-16.06.11:613][497]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-16.06.11:613][497]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-16.06.11:624][497]LogAudioMixer: Display: Using Audio Device Haut-parleurs (G935 Gaming Headset)
+[2022.02.26-16.06.11:624][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-16.06.11:624][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-16.06.11:624][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-16.06.11:625][497]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-16.06.11:625][497]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-16.06.11:625][497]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-16.06.11:626][497]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-16.06.11:626][497]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-16.06.11:626][497]LogInit: FAudioDevice initialized.
+[2022.02.26-16.06.11:626][497]LogAudio: Display: Audio Device (ID: 4) registered with world 'greybox'.
+[2022.02.26-16.06.11:636][497]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.26-16.06.11:639][497]LogWorld: Bringing World /Game/Maps/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2022.02.26-17.06.11
+[2022.02.26-16.06.11:639][497]LogWorld: Bringing up level for play took: 0.001875
+[2022.02.26-16.06.11:639][497]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.02.26-16.06.11:641][497]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.02.26-16.06.11:641][497]PIE: Server logged in
+[2022.02.26-16.06.11:642][497]PIE: Play in editor total start time 0,147 seconds.
+[2022.02.26-16.06.15:203][917]LogBlueprintUserMessages: [BP_DestroyableMeshBlock_2] Hello
+[2022.02.26-16.06.23:459][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-16.06.23:459][897]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_greybox
+[2022.02.26-16.06.23:459][897]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-16.06.23:459][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-16.06.23:466][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.26-16.06.23:475][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-16.06.23:510][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.26-16.06.23:510][897]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-16.06.23:511][897]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-16.06.23:513][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-16.06.23:516][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.02.26-16.06.23:551][898]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.02.26-16.07.51:024][223]LogEditorTransaction: Undo Move Node
+[2022.02.26-16.07.51:476][236]LogEditorTransaction: Undo Add Node
+[2022.02.26-16.08.51:370][613]BlueprintLog: New page: Compile BP_PowerBase
+[2022.02.26-16.08.51:435][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.02.26-16.08.51:665][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_PowerBase" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset" SILENT=true
+[2022.02.26-16.08.51:716][630]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_PowerBase5B8A9862457D5293D737C2BD3ED90286.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset'
+[2022.02.26-16.08.51:729][630]AssetCheck: New page: Asset Save: BP_PowerBase
+[2022.02.26-16.08.51:729][630]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.09.01:073][666]LogContentBrowser: Attempting asset rename: BP_Projectile -> BP_ProjectileEarth
+[2022.02.26-16.09.01:114][666]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_ProjectileEarth.BP_ProjectileEarth_C' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_Projectile.PackageMetaData'
+[2022.02.26-16.09.01:114][666]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_ProjectileEarth.BP_ProjectileEarth:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_Projectile.PackageMetaData'
+[2022.02.26-16.09.01:114][666]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_ProjectileEarth.SKEL_BP_ProjectileEarth_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_Projectile.PackageMetaData'
+[2022.02.26-16.09.01:114][666]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_ProjectileEarth.SKEL_BP_ProjectileEarth_C' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_Projectile.PackageMetaData'
+[2022.02.26-16.09.01:221][666]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_ProjectileEarthBEBFC96642DB8FE2ADFC348E8E93CCCC.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/Projecties/BP_ProjectileEarth.uasset'
+[2022.02.26-16.09.01:393][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.02.26-16.09.01:440][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.02.26-16.09.01:478][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.26-16.09.01:489][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_PowerBase" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset" SILENT=true
+[2022.02.26-16.09.01:593][666]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_PowerBaseB9C1A8E34F589D997A746BB8715A4D50.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset'
+[2022.02.26-16.09.01:595][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DestroyableMeshBlock" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_DestroyableMeshBlock.uasset" SILENT=true
+[2022.02.26-16.09.01:637][666]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_DestroyableMeshBlock0F200FF7415754ABA7BA28A655725CA7.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_DestroyableMeshBlock.uasset'
+[2022.02.26-16.09.01:800][666]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.26-16.09.01:800][666]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/Projecties/BP_ProjectileEarth.BP_ProjectileEarth
+[2022.02.26-16.09.01:800][666]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.09.01:800][666]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DestroyableMeshBlock.BP_DestroyableMeshBlock
+[2022.02.26-16.09.07:665][168]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.26-16.09.07:677][168]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.26-16.09.07:689][168]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.26-16.09.12:388][726]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ProjectileFire
+[2022.02.26-16.09.12:391][726]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.26-16.09.41:055][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.02.26-16.09.41:897][843]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.26-16.09.41:981][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.02.26-16.09.46:296][114]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.26-16.09.46:307][114]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.26-16.09.46:318][114]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.26-16.09.48:587][385]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_projectil
+[2022.02.26-16.09.48:591][385]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.26-16.09.50:679][629]LogContentBrowser: Attempting asset rename: BP_projectil -> BP_projectile
+[2022.02.26-16.09.50:697][629]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_projectile.BP_projectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_projectil.PackageMetaData'
+[2022.02.26-16.09.50:697][629]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_projectile.SKEL_BP_projectile_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_projectil.PackageMetaData'
+[2022.02.26-16.09.50:697][629]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_projectile.SKEL_BP_projectile_C' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_projectil.PackageMetaData'
+[2022.02.26-16.09.50:697][629]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_projectile.BP_projectile_C' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_projectil.PackageMetaData'
+[2022.02.26-16.09.50:697][629]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_projectile.BP_projectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_projectil.PackageMetaData'
+[2022.02.26-16.09.50:697][629]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_projectile.BP_projectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_projectil.PackageMetaData'
+[2022.02.26-16.09.50:697][629]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_projectile.BP_projectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_projectil.PackageMetaData'
+[2022.02.26-16.09.50:863][629]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_projectile45F635AA46BA53CC861A31AFD2805BEF.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/Projecties/BP_projectile.uasset'
+[2022.02.26-16.09.50:952][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.02.26-16.09.50:996][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.02.26-16.09.51:031][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.26-16.09.51:066][629]AssetCheck: New page: Asset Save: BP_projectile
+[2022.02.26-16.09.51:066][629]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/Projecties/BP_projectile.BP_projectile
+[2022.02.26-16.09.53:840][909]LogContentBrowser: Deferred new asset file creation: BP_projectile_Child
+[2022.02.26-16.09.53:886][909]LogContentBrowser: Creating deferred item: BP_projectile_Child
+[2022.02.26-16.09.57:780][370]LogContentBrowser: Attempting asset rename: BP_projectile_Child -> BP_ProjectileFire
+[2022.02.26-16.09.57:784][370]LogContentBrowser: End creating deferred item BP_projectile_Child
+[2022.02.26-16.10.10:940][858]LogSlate: Took 0.017227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.02.26-16.10.32:983][ 91]BlueprintLog: New page: Compile BP_PowerBase
+[2022.02.26-16.10.33:059][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.02.26-16.10.33:253][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_PowerBase" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset" SILENT=true
+[2022.02.26-16.10.33:306][106]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_PowerBase30D6C5C449681C5181E00CA5C4B882BD.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset'
+[2022.02.26-16.10.33:319][106]AssetCheck: New page: Asset Save: BP_PowerBase
+[2022.02.26-16.10.33:319][106]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.10.37:454][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2022.02.26-16.10.38:032][649]LogEditorViewport: Clicking on Actor (LMB): BP_ProjectileFire_C (BP_ProjectileFire)
+[2022.02.26-16.10.38:883][748]Cmd: DELETE
+[2022.02.26-16.10.38:883][748]Cmd: ACTOR DELETE
+[2022.02.26-16.10.38:886][748]LogEditorActor: Deleted Actor: BP_ProjectileFire_C
+[2022.02.26-16.10.38:925][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.02.26-16.10.38:926][748]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.02.26-16.10.40:092][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.26-16.10.40:127][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.26-16.10.40:557][886]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greyboxF0F1977B419681E066F5C8B3CB8E2589.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.02.26-16.10.40:572][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox_BuiltData" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset" SILENT=true
+[2022.02.26-16.10.41:085][886]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greybox_BuiltData1969CCEC4670E6E90BD4CF923678ABE5.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset'
+[2022.02.26-16.10.41:096][886]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.26-16.10.41:096][886]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/greybox_BuiltData.greybox_BuiltData
+[2022.02.26-16.10.41:096][886]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.02.26-16.12.27:341][717]LogContentBrowser: Attempting asset rename: BP_ProjectileEarth -> BP_ProjectileEarth
+[2022.02.26-16.12.28:162][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.02.26-16.12.29:665][807]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.26-16.12.29:837][807]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-16.12.29:837][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-16.12.29:889][807]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.26-16.12.29:889][807]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-16.12.29:889][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-16.12.29:945][807]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.26-16.12.29:945][807]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-16.12.29:945][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-16.12.29:991][807]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Powers/Projecties/BP_projectile.BP_projectile
+[2022.02.26-16.12.38:821][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.02.26-16.12.38:885][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.02.26-16.12.38:918][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.26-16.12.38:949][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.26-16.12.41:305][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.02.26-16.12.42:265][945]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.26-16.12.42:332][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.02.26-16.12.48:987][678]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.12.49:315][679]LogPropertyNode: Warning: Object Property (ObjectProperty /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase_C:NewVar_0) has a null class, falling back to UObject
+[2022.02.26-16.12.53:193][121]LogPropertyNode: Warning: Object Property (ObjectProperty /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase_C:NewVar_0) has a null class, falling back to UObject
+[2022.02.26-16.12.54:950][316]BlueprintLog: New page: Compile BP_PowerBase
+[2022.02.26-16.12.55:005][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.02.26-16.12.55:295][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_PowerBase" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset" SILENT=true
+[2022.02.26-16.12.55:401][345]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_PowerBase850A1A4148989AE3A02D8FA6B46F95A3.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset'
+[2022.02.26-16.12.55:416][345]AssetCheck: New page: Asset Save: BP_PowerBase
+[2022.02.26-16.12.55:416][345]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.13.03:832][335]LogContentBrowser: Attempting asset rename: BP_ProjectileEarth -> BP_Projectile
+[2022.02.26-16.13.03:851][335]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_Projectile.BP_Projectile_C' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_ProjectileEarth.PackageMetaData'
+[2022.02.26-16.13.03:851][335]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_Projectile.SKEL_BP_Projectile_C' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_ProjectileEarth.PackageMetaData'
+[2022.02.26-16.13.03:851][335]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_Projectile.SKEL_BP_Projectile_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_ProjectileEarth.PackageMetaData'
+[2022.02.26-16.13.03:851][335]LogMetaData: Removing '/Game/Blueprints/Powers/Projecties/BP_Projectile.BP_Projectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Powers/Projecties/BP_ProjectileEarth.PackageMetaData'
+[2022.02.26-16.13.03:961][335]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Projectile32B7BB5047743993C324E6936D108E51.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/Projecties/BP_Projectile.uasset'
+[2022.02.26-16.13.04:050][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.02.26-16.13.04:088][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.02.26-16.13.04:117][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.26-16.13.04:136][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_PowerBase" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset" SILENT=true
+[2022.02.26-16.13.04:261][335]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_PowerBase211BF8224F544A2327F5AEB0DF5BDE1A.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset'
+[2022.02.26-16.13.04:262][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DestroyableMeshBlock" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_DestroyableMeshBlock.uasset" SILENT=true
+[2022.02.26-16.13.04:296][335]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_DestroyableMeshBlock18B0F2FC4E713AF95B89518CE2D1D5A0.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_DestroyableMeshBlock.uasset'
+[2022.02.26-16.13.04:338][335]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.26-16.13.04:338][335]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/Projecties/BP_Projectile.BP_Projectile
+[2022.02.26-16.13.04:338][335]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.13.04:338][335]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DestroyableMeshBlock.BP_DestroyableMeshBlock
+[2022.02.26-16.13.25:867][482]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_ProjectileE87E76984BEBF20BE22CC8B68030DD4A.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/Projecties/BP_Projectile.uasset'
+[2022.02.26-16.13.25:878][482]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.02.26-16.13.25:878][482]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/Projecties/BP_Projectile.BP_Projectile
+[2022.02.26-16.14.08:388][390]BlueprintLog: New page: Compile BP_Projectile
+[2022.02.26-16.14.08:451][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.02.26-16.14.08:753][415]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Projectile648D94BD46A664CCEC9458A96CF498B7.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/Projecties/BP_Projectile.uasset'
+[2022.02.26-16.14.08:765][415]AssetCheck: New page: Asset Save: BP_Projectile
+[2022.02.26-16.14.08:766][415]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/Projecties/BP_Projectile.BP_Projectile
+[2022.02.26-16.14.11:833][750]LogContentBrowser: Deferred new asset file creation: BP_Projectile_Child
+[2022.02.26-16.14.11:863][750]LogContentBrowser: Creating deferred item: BP_Projectile_Child
+[2022.02.26-16.14.16:963][362]LogContentBrowser: Attempting asset rename: BP_Projectile_Child -> BP_ProjectileEarth
+[2022.02.26-16.14.16:967][362]LogContentBrowser: End creating deferred item BP_Projectile_Child
+[2022.02.26-16.14.18:267][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Powers/Projecties/BP_ProjectileEarth.BP_ProjectileEarth
+[2022.02.26-16.14.28:848][645]BlueprintLog: New page: Compile BP_ProjectileEarth
+[2022.02.26-16.14.28:907][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.02.26-16.14.29:238][669]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_ProjectileEarthB658C6AC468BBE1367C945953C71927F.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/Projecties/BP_ProjectileEarth.uasset'
+[2022.02.26-16.14.29:251][669]AssetCheck: New page: Asset Save: BP_ProjectileEarth
+[2022.02.26-16.14.29:251][669]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/Projecties/BP_ProjectileEarth.BP_ProjectileEarth
+[2022.02.26-16.14.48:422][724]BlueprintLog: New page: Collapse to Function
+[2022.02.26-16.15.58:232][966]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.26-16.15.58:252][966]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.26-16.16.16:144][ 64]BlueprintLog: New page: Compile BP_PowerBase
+[2022.02.26-16.16.16:203][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.02.26-16.16.16:524][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_PowerBase" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset" SILENT=true
+[2022.02.26-16.16.16:630][ 94]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_PowerBaseFB29A425412057470FCC85A37AB53846.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset'
+[2022.02.26-16.16.16:643][ 94]AssetCheck: New page: Asset Save: BP_PowerBase
+[2022.02.26-16.16.16:643][ 94]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.16.24:010][953]BlueprintLog: New page: Compile BP_PowerBase
+[2022.02.26-16.16.24:070][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.02.26-16.16.24:296][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_PowerBase" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset" SILENT=true
+[2022.02.26-16.16.24:359][976]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_PowerBase964D640742D3E519D5B42C8C00B0BD0D.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset'
+[2022.02.26-16.16.24:375][976]AssetCheck: New page: Asset Save: BP_PowerBase
+[2022.02.26-16.16.24:375][976]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.16.40:918][919]BlueprintLog: New page: Compile BP_PowerBase
+[2022.02.26-16.16.40:978][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.02.26-16.16.41:179][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_PowerBase" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset" SILENT=true
+[2022.02.26-16.16.41:245][936]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_PowerBase934D7F4D45E242C169C169B08E0C4431.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset'
+[2022.02.26-16.16.41:260][936]AssetCheck: New page: Asset Save: BP_PowerBase
+[2022.02.26-16.16.41:260][936]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.16.47:565][667]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.26-16.16.47:583][667]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.26-16.16.54:402][457]BlueprintLog: New page: Compile BP_PowerBase
+[2022.02.26-16.16.54:464][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.02.26-16.16.54:772][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_PowerBase" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset" SILENT=true
+[2022.02.26-16.16.54:832][488]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_PowerBase94E5D1F2466201266ECDF08E838B3B12.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset'
+[2022.02.26-16.16.54:848][488]AssetCheck: New page: Asset Save: BP_PowerBase
+[2022.02.26-16.16.54:848][488]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.16.59:449][986]LogContentBrowser: Deferred new asset file creation: BP_Projectile_Child
+[2022.02.26-16.16.59:495][986]LogContentBrowser: Creating deferred item: BP_Projectile_Child
+[2022.02.26-16.17.04:062][534]LogContentBrowser: Attempting asset rename: BP_Projectile_Child -> BP_ProjectileFire
+[2022.02.26-16.17.04:066][534]LogContentBrowser: End creating deferred item BP_Projectile_Child
+[2022.02.26-16.17.05:631][702]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Powers/Projecties/BP_ProjectileFire.BP_ProjectileFire
+[2022.02.26-16.18.31:532][909]BlueprintLog: New page: Compile BP_ProjectileFire
+[2022.02.26-16.18.31:594][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.02.26-16.18.31:861][923]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_ProjectileFire7AA655244C593525A73904B8B4ADE690.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/Projecties/BP_ProjectileFire.uasset'
+[2022.02.26-16.18.31:877][923]AssetCheck: New page: Asset Save: BP_ProjectileFire
+[2022.02.26-16.18.31:877][923]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/Projecties/BP_ProjectileFire.BP_ProjectileFire
+[2022.02.26-16.18.42:725][171]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.26-16.18.42:745][171]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.26-16.18.47:978][775]BlueprintLog: New page: Compile BP_PowerBase
+[2022.02.26-16.18.48:045][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.02.26-16.18.48:272][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_PowerBase" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset" SILENT=true
+[2022.02.26-16.18.48:334][795]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_PowerBaseD0E59C794F52603CE7145B99C3192D52.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_PowerBase.uasset'
+[2022.02.26-16.18.48:349][795]AssetCheck: New page: Asset Save: BP_PowerBase
+[2022.02.26-16.18.48:349][795]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_PowerBase.BP_PowerBase
+[2022.02.26-16.18.59:515][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.26-16.18.59:554][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.02.26-16.19.00:001][520]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greyboxABD39DB84B518FD6046FB494BAF9C0B2.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.02.26-16.19.00:017][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox_BuiltData" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset" SILENT=true
+[2022.02.26-16.19.00:552][520]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greybox_BuiltData3DB936A540F8F9B38D4DF19EC565386E.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset'
+[2022.02.26-16.19.00:568][520]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.26-16.19.00:568][520]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/greybox_BuiltData.greybox_BuiltData
+[2022.02.26-16.19.00:568][520]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.02.26-16.19.01:847][671]LogEditorViewport: Clicking on Actor (LMB): BP_Item_PW_Earth_C (BP_PW_Fire)
+[2022.02.26-16.19.06:848][912]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.26-16.19.06:857][912]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.26-16.19.06:857][912]LogPlayLevel: [PlayLevel] Compiling BP_DestroyableMeshBlock before play...
+[2022.02.26-16.19.06:914][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.02.26-16.19.06:915][912]LogPlayLevel: PlayLevel: Blueprint regeneration took 57 ms (1 blueprints)
+[2022.02.26-16.19.06:915][912]PIE: New page: PIE session: greybox (26 févr. 2022 à 18:19:06)
+[2022.02.26-16.19.06:915][912]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_greybox
+[2022.02.26-16.19.06:930][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015208s)
+[2022.02.26-16.19.06:931][912]LogAIModule: Creating AISystem for world greybox
+[2022.02.26-16.19.06:931][912]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2022.02.26-16.19.06:931][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/greybox.greybox to /Game/Maps/UEDPIE_0_greybox.greybox (0.016501s)
+[2022.02.26-16.19.06:974][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.02.26-16.19.06:974][912]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.02.26-16.19.06:975][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-16.19.06:975][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-16.19.06:975][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-16.19.06:975][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-16.19.06:975][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-16.19.06:975][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-16.19.06:975][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-16.19.06:975][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-16.19.06:975][912]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-16.19.06:975][912]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-16.19.06:975][912]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-16.19.06:975][912]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-16.19.06:991][912]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-16.19.06:991][912]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-16.19.07:002][912]LogAudioMixer: Display: Using Audio Device Haut-parleurs (G935 Gaming Headset)
+[2022.02.26-16.19.07:002][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-16.19.07:002][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-16.19.07:002][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-16.19.07:003][912]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-16.19.07:003][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-16.19.07:003][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-16.19.07:004][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-16.19.07:004][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-16.19.07:004][912]LogInit: FAudioDevice initialized.
+[2022.02.26-16.19.07:004][912]LogAudio: Display: Audio Device (ID: 5) registered with world 'greybox'.
+[2022.02.26-16.19.07:012][912]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.26-16.19.07:014][912]LogWorld: Bringing World /Game/Maps/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2022.02.26-17.19.07
+[2022.02.26-16.19.07:015][912]LogWorld: Bringing up level for play took: 0.001747
+[2022.02.26-16.19.07:015][912]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.02.26-16.19.07:017][912]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.02.26-16.19.07:017][912]PIE: Server logged in
+[2022.02.26-16.19.07:018][912]PIE: Play in editor total start time 0,163 seconds.
+[2022.02.26-16.19.09:719][231]LogBlueprintUserMessages: [BP_DestroyableMeshBlock_2] Hello
+[2022.02.26-16.19.14:789][838]LogCharacterMovement: Player is stuck and failed to move! Velocity: X=585.27 Y=132.12 Z=0.00 Location: X=558.51 Y=-33.09 Z=266.42 Normal: X=-0.87 Y=0.18 Z=-0.45 PenetrationDepth:10.464 Actor:BP_ProjectileEarth_C_1 Component:Mesh BoneName:None (0 other events since notify)
+[2022.02.26-16.19.24:069][941]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the actor has invalid flags. (BP_PW_Fire)
+[2022.02.26-16.19.42:755][501]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall12)
+[2022.02.26-16.19.43:296][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall12)
+[2022.02.26-16.19.44:542][629]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.02.26-16.19.51:308][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-16.19.51:308][412]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_greybox
+[2022.02.26-16.19.51:308][412]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-16.19.51:328][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-16.19.51:340][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.26-16.19.51:346][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-16.19.51:388][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-16.19.51:388][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-16.19.51:390][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-16.19.51:396][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.26-16.19.51:420][413]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.02.26-16.20.07:109][ 33]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Powers/BP_Item_Powers.BP_Item_Powers
+[2022.02.26-16.22.14:576][157]BlueprintLog: New page: Compile BP_Item_Powers
+[2022.02.26-16.22.14:648][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.02.26-16.22.14:853][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_Item_Powers" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset" SILENT=true
+[2022.02.26-16.22.14:953][175]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Item_Powers7C65B5D8414A68F714A2E0B1A5CD29EC.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset'
+[2022.02.26-16.22.14:969][175]AssetCheck: New page: Asset Save: BP_Item_Powers
+[2022.02.26-16.22.14:969][175]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_Item_Powers.BP_Item_Powers
+[2022.02.26-16.22.15:997][266]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.26-16.22.16:006][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.26-16.22.16:006][266]PIE: New page: PIE session: greybox (26 févr. 2022 à 18:22:16)
+[2022.02.26-16.22.16:038][266]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_greybox
+[2022.02.26-16.22.16:052][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014315s)
+[2022.02.26-16.22.16:053][266]LogAIModule: Creating AISystem for world greybox
+[2022.02.26-16.22.16:054][266]LogPlayLevel: PIE: World Init took: (0.001400s)
+[2022.02.26-16.22.16:054][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/greybox.greybox to /Game/Maps/UEDPIE_0_greybox.greybox (0.015951s)
+[2022.02.26-16.22.16:099][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.02.26-16.22.16:101][266]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.02.26-16.22.16:101][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-16.22.16:101][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-16.22.16:101][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-16.22.16:101][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-16.22.16:102][266]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-16.22.16:102][266]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-16.22.16:102][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-16.22.16:102][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-16.22.16:102][266]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-16.22.16:102][266]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-16.22.16:102][266]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-16.22.16:102][266]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-16.22.16:107][266]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-16.22.16:107][266]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-16.22.16:118][266]LogAudioMixer: Display: Using Audio Device Haut-parleurs (G935 Gaming Headset)
+[2022.02.26-16.22.16:119][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-16.22.16:119][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-16.22.16:119][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-16.22.16:119][266]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-16.22.16:119][266]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-16.22.16:119][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-16.22.16:120][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-16.22.16:120][266]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-16.22.16:120][266]LogInit: FAudioDevice initialized.
+[2022.02.26-16.22.16:120][266]LogAudio: Display: Audio Device (ID: 6) registered with world 'greybox'.
+[2022.02.26-16.22.16:133][266]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.26-16.22.16:136][266]LogWorld: Bringing World /Game/Maps/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2022.02.26-17.22.16
+[2022.02.26-16.22.16:136][266]LogWorld: Bringing up level for play took: 0.002112
+[2022.02.26-16.22.16:136][266]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.02.26-16.22.16:138][266]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.02.26-16.22.16:138][266]PIE: Server logged in
+[2022.02.26-16.22.16:139][266]PIE: Play in editor total start time 0,136 seconds.
+[2022.02.26-16.22.18:001][486]LogCharacterMovement: Player is stuck and failed to move! Velocity: X=12.05 Y=7.18 Z=0.00 Location: X=-205.01 Y=-16.92 Z=268.38 Normal: X=0.44 Y=0.78 Z=-0.44 PenetrationDepth:14.383 Actor:BP_ProjectileEarth_C_0 Component:Mesh BoneName:None (0 other events since notify)
+[2022.02.26-16.22.18:458][541]LogBlueprintUserMessages: [BP_DestroyableMeshBlock_2] Hello
+[2022.02.26-16.22.27:572][626]LogCharacterMovement: Player is stuck and failed to move! Velocity: X=14.49 Y=162.09 Z=0.00 Location: X=1793.13 Y=-45.99 Z=266.49 Normal: X=-0.81 Y=-0.52 Z=-0.26 PenetrationDepth:11.569 Actor:BP_ProjectileFire_C_4 Component:Mesh BoneName:None (4 other events since notify)
+[2022.02.26-16.22.29:308][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-16.22.29:308][829]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_greybox
+[2022.02.26-16.22.29:308][829]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-16.22.29:309][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-16.22.29:320][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.26-16.22.29:325][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-16.22.29:363][829]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.26-16.22.29:364][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-16.22.29:365][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-16.22.29:366][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-16.22.29:370][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.02.26-16.22.29:392][830]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.02.26-16.24.28:895][659]BlueprintLog: New page: Compile BP_Torch
+[2022.02.26-16.24.28:990][659]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2022.02.26-16.24.29:415][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Torch" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset" SILENT=true
+[2022.02.26-16.24.29:441][698]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_TorchD2CA8EAF4B2A613F8D091A9A00088908.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset'
+[2022.02.26-16.24.29:453][698]AssetCheck: New page: Asset Save: BP_Torch
+[2022.02.26-16.24.29:454][698]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Torch.BP_Torch
+[2022.02.26-16.25.45:344][713]BlueprintLog: New page: Compile BP_Torch
+[2022.02.26-16.25.45:410][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.02.26-16.25.45:642][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Torch" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset" SILENT=true
+[2022.02.26-16.25.45:682][734]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Torch43D0B01E46A95AB85E786CB0D2B9DDFD.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/BP_Torch.uasset'
+[2022.02.26-16.25.45:699][734]AssetCheck: New page: Asset Save: BP_Torch
+[2022.02.26-16.25.45:699][734]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Torch.BP_Torch
+[2022.02.26-16.25.51:879][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.26-16.25.51:923][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.02.26-16.25.52:337][440]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greybox34F1FF9A4AEEE249ABE97BA4E1A71B00.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.02.26-16.25.52:351][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox_BuiltData" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset" SILENT=true
+[2022.02.26-16.25.52:918][440]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greybox_BuiltData73D469B9459A527033F5939B8AA15BCA.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset'
+[2022.02.26-16.25.52:930][440]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.26-16.25.52:930][440]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/greybox_BuiltData.greybox_BuiltData
+[2022.02.26-16.25.52:930][440]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.02.26-16.26.09:460][353]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Player/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.26-16.26.35:612][308]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/FirstPersonCharacter56AE79A7496743F699CFD2AB31F48FC7.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/FirstPerson/Player/FirstPersonCharacter.uasset'
+[2022.02.26-16.26.35:642][308]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.02.26-16.26.35:642][308]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Player/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.26-16.28.07:543][540]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.26-16.28.55:929][674]LogSlate: Window 'Project Settings' being destroyed
+[2022.02.26-16.28.55:935][674]LogSlate: Window 'Project Settings' being destroyed
+[2022.02.26-16.35.52:303][590]LogUObjectHash: Compacting FUObjectHashTables data took   5.70ms
+[2022.02.26-16.35.52:749][590]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greybox_Auto1CB7E35744848D23CAF68069E9A05A734.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Autosaves/Game/Maps/greybox_Auto1.umap'
+[2022.02.26-16.35.52:764][590]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/greybox' took 0.557
+[2022.02.26-16.35.52:765][590]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.557
+[2022.02.26-16.35.52:785][590]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Player/FirstPersonCharacter] ([2] browsable assets)...
+[2022.02.26-16.35.52:804][590]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Player/FirstPersonCharacter.FirstPersonCharacter]
+[2022.02.26-16.35.52:804][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Player/FirstPersonCharacter]
+[2022.02.26-16.35.53:029][590]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/FirstPersonCharacter_Auto113F391A9402536471159379D5D526286.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Autosaves/Game/FirstPerson/Player/FirstPersonCharacter_Auto1.uasset'
+[2022.02.26-16.35.53:030][590]LogFileHelpers: Auto-saving content packages took 0.265
+[2022.02.26-16.45.22:265][454]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.02.26-16.45.22:376][454]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2022.02.26-16.45.22:874][480]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/FirstPersonCharacterD1F85E0747AC62B070754FBEA3AFAD28.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/FirstPerson/Player/FirstPersonCharacter.uasset'
+[2022.02.26-16.45.22:888][480]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.02.26-16.45.22:888][480]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Player/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.26-16.45.41:797][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_Item_Powers" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset" SILENT=true
+[2022.02.26-16.45.41:960][703]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Item_PowersFA2138AB457F0A2B0AFFBB8A115B92E0.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset'
+[2022.02.26-16.45.41:976][703]AssetCheck: New page: Asset Save: BP_Item_Powers
+[2022.02.26-16.45.41:976][703]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_Item_Powers.BP_Item_Powers
+[2022.02.26-16.47.18:017][ 20]BlueprintLog: New page: Compile BP_Item_Powers
+[2022.02.26-16.47.18:103][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.02.26-16.47.18:415][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_Item_Powers" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset" SILENT=true
+[2022.02.26-16.47.18:552][ 51]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Item_Powers48654CC248876196FA48CFBBC4A30587.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset'
+[2022.02.26-16.47.18:570][ 51]AssetCheck: New page: Asset Save: BP_Item_Powers
+[2022.02.26-16.47.18:570][ 51]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_Item_Powers.BP_Item_Powers
+[2022.02.26-16.47.25:002][800]BlueprintLog: New page: Compile BP_Item_Powers
+[2022.02.26-16.47.25:088][800]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2022.02.26-16.47.25:418][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_Item_Powers" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset" SILENT=true
+[2022.02.26-16.47.25:517][832]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Item_Powers2D7628C241D62918F8ED4A9AF41E0196.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset'
+[2022.02.26-16.47.25:535][832]AssetCheck: New page: Asset Save: BP_Item_Powers
+[2022.02.26-16.47.25:535][832]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_Item_Powers.BP_Item_Powers
+[2022.02.26-16.49.02:577][279]BlueprintLog: New page: Compile BP_Item_Powers
+[2022.02.26-16.49.02:668][279]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2022.02.26-16.49.02:975][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_Item_Powers" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset" SILENT=true
+[2022.02.26-16.49.03:075][305]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Item_PowersB9CFB2EE43513C3C2037F699D98A89D7.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset'
+[2022.02.26-16.49.03:091][305]AssetCheck: New page: Asset Save: BP_Item_Powers
+[2022.02.26-16.49.03:091][305]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_Item_Powers.BP_Item_Powers
+[2022.02.26-16.49.11:127][264]BlueprintLog: New page: Compile BP_Item_Powers
+[2022.02.26-16.49.11:214][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2022.02.26-16.49.11:431][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Powers/BP_Item_Powers" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset" SILENT=true
+[2022.02.26-16.49.11:534][281]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/BP_Item_Powers5E583F5D4B575FC58490A780601D6ACF.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Blueprints/Powers/BP_Item_Powers.uasset'
+[2022.02.26-16.49.11:550][281]AssetCheck: New page: Asset Save: BP_Item_Powers
+[2022.02.26-16.49.11:550][281]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Powers/BP_Item_Powers.BP_Item_Powers
+[2022.02.26-16.49.41:894][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2022.02.26-16.49.42:308][ 42]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greybox_Auto244567DC64F32863D9A62B9BCCA5C2E79.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/Autosaves/Game/Maps/greybox_Auto2.umap'
+[2022.02.26-16.49.42:329][ 42]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/greybox' took 0.486
+[2022.02.26-16.49.42:329][ 42]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.486
+[2022.02.26-16.50.27:736][901]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.02.26-16.50.27:828][901]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.02.26-16.50.28:213][914]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/FirstPersonCharacterFECBA28F4BDB5F1D49A42C8EAA41965B.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/FirstPerson/Player/FirstPersonCharacter.uasset'
+[2022.02.26-16.50.28:231][914]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.02.26-16.50.28:231][914]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Player/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.26-16.50.46:761][ 31]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.02.26-16.50.46:857][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.02.26-16.50.47:264][ 46]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/FirstPersonCharacterFB1E246A443A166418A1E19215068D09.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/FirstPerson/Player/FirstPersonCharacter.uasset'
+[2022.02.26-16.50.47:284][ 46]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.02.26-16.50.47:284][ 46]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Player/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.26-16.51.01:773][719]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.02.26-16.51.01:871][719]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2022.02.26-16.51.02:365][744]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/FirstPersonCharacter5E82EBD94FF7B924F652D2B235920D51.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/FirstPerson/Player/FirstPersonCharacter.uasset'
+[2022.02.26-16.51.02:381][744]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.02.26-16.51.02:381][744]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Player/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.26-16.51.05:987][151]BlueprintLog: New page: Collapse to Function
+[2022.02.26-16.51.59:800][332]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.02.26-16.51.59:899][332]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.02.26-16.52.00:434][357]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/FirstPersonCharacterBBC22ECF42995E9A08C1E0B8BEDB8C7A.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/FirstPerson/Player/FirstPersonCharacter.uasset'
+[2022.02.26-16.52.00:448][357]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.02.26-16.52.00:448][357]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Player/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.26-16.52.20:727][646]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.02.26-16.52.20:820][646]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2022.02.26-16.52.21:475][689]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/FirstPersonCharacterE54524EA45FF3095790DA090CDFDAC02.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/FirstPerson/Player/FirstPersonCharacter.uasset'
+[2022.02.26-16.52.21:490][689]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.02.26-16.52.21:490][689]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Player/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.26-16.52.33:974][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.26-16.52.34:029][953]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.02.26-16.52.34:420][953]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greybox8E5D2C1143FC814AE381C7A94A65D0C7.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.02.26-16.52.34:434][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox_BuiltData" FILE="../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset" SILENT=true
+[2022.02.26-16.52.35:080][953]LogSavePackage: Moving '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Saved/greybox_BuiltData1FC89235467A560DFDBD6EAA672AD409.tmp' to '../../../../../GitHub/SpiritTemple/SpiritTemple/SpiritTemple/Content/Maps/greybox_BuiltData.uasset'
+[2022.02.26-16.52.35:117][953]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.26-16.52.35:117][953]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/greybox_BuiltData.greybox_BuiltData
+[2022.02.26-16.52.35:117][953]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.02.26-16.52.36:074][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.26-16.52.36:082][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.26-16.52.36:082][ 68]PIE: New page: PIE session: greybox (26 févr. 2022 à 18:52:36)
+[2022.02.26-16.52.36:107][ 68]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_greybox
+[2022.02.26-16.52.36:119][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012540s)
+[2022.02.26-16.52.36:120][ 68]LogAIModule: Creating AISystem for world greybox
+[2022.02.26-16.52.36:121][ 68]LogPlayLevel: PIE: World Init took: (0.001536s)
+[2022.02.26-16.52.36:121][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/greybox.greybox to /Game/Maps/UEDPIE_0_greybox.greybox (0.014258s)
+[2022.02.26-16.52.36:175][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.02.26-16.52.36:175][ 68]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.02.26-16.52.36:175][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-16.52.36:175][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-16.52.36:175][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-16.52.36:175][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-16.52.36:175][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-16.52.36:175][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-16.52.36:175][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-16.52.36:175][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-16.52.36:176][ 68]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-16.52.36:176][ 68]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-16.52.36:176][ 68]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-16.52.36:176][ 68]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-16.52.36:216][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-16.52.36:216][ 68]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-16.52.36:227][ 68]LogAudioMixer: Display: Using Audio Device Haut-parleurs (G935 Gaming Headset)
+[2022.02.26-16.52.36:227][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-16.52.36:227][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-16.52.36:227][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-16.52.36:228][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-16.52.36:228][ 68]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-16.52.36:228][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-16.52.36:229][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-16.52.36:229][ 68]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-16.52.36:229][ 68]LogInit: FAudioDevice initialized.
+[2022.02.26-16.52.36:229][ 68]LogAudio: Display: Audio Device (ID: 7) registered with world 'greybox'.
+[2022.02.26-16.52.36:238][ 68]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.26-16.52.36:241][ 68]LogWorld: Bringing World /Game/Maps/UEDPIE_0_greybox.greybox up for play (max tick rate 0) at 2022.02.26-17.52.36
+[2022.02.26-16.52.36:241][ 68]LogWorld: Bringing up level for play took: 0.001876
+[2022.02.26-16.52.36:241][ 68]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.02.26-16.52.36:243][ 68]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.02.26-16.52.36:244][ 68]PIE: Server logged in
+[2022.02.26-16.52.36:244][ 68]PIE: Play in editor total start time 0,165 seconds.
+[2022.02.26-16.52.38:984][392]LogBlueprintUserMessages: [BP_DestroyableMeshBlock_2] Hello
+[2022.02.26-16.52.44:330][ 32]LogCharacterMovement: Player is stuck and failed to move! Velocity: X=585.91 Y=129.28 Z=0.00 Location: X=685.69 Y=-16.30 Z=266.51 Normal: X=-0.95 Y=0.14 Z=-0.27 PenetrationDepth:12.470 Actor:BP_ProjectileEarth_C_1 Component:Mesh BoneName:None (0 other events since notify)
+[2022.02.26-16.53.10:197][608]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall15)
+[2022.02.26-16.53.10:594][634]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/1M_Cube.1M_Cube
+[2022.02.26-16.53.10:746][634]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.02.26-16.53.11:038][634]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.26-16.53.11:673][634]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.02.26-16.53.11:972][634]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.298 s
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: 
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: Ensure condition failed: bFoundWidget [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Slate/Private/Framework/Application/SlateUser.cpp] [Line: 807]
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: Attempting to LockCursor() to widget but could not find widget SViewport [SEditorViewport.cpp(54)]
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: Stack: 
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff3cddd21e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff3cabc1d4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff3cad8da3 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff3ca72c94 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff3caeccaf UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff3cad6a2a UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff3cac964f UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff86b7c074 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff86b692b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff86b7e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff86b64410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fffae59e858 USER32.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fffae59e299 USER32.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fff86b7fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007ff7f4147621 UE4Editor.exe!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007ff7f4160fcc UE4Editor.exe!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007ff7f41610ba UE4Editor.exe!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007ff7f41640dd UE4Editor.exe!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007ff7f4175984 UE4Editor.exe!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007ff7f417853a UE4Editor.exe!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fffadb17034 KERNEL32.DLL!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: [Callstack] 0x00007fffaeba2651 ntdll.dll!UnknownFunction []
+[2022.02.26-16.53.11:972][634]LogOutputDevice: Error: 
