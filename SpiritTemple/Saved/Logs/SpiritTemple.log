@@ -1039,3 +1039,158 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.28-10.36.21:663][216]AssetCheck: New page: Asset Save: lamymap
 [2022.02.28-10.36.21:663][216]LogContentValidation: Display: Validating World /Game/Maps/lamymap.lamymap
 [2022.02.28-10.36.22:705][276]LogSlate: Window 'lamymap' being destroyed
+[2022.02.28-10.37.27:233][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.02.28-10.37.27:290][692]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/greybox.greybox
+[2022.02.28-10.37.27:290][692]Cmd: MAP LOAD FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.28-10.37.27:291][692]LightingResults: New page: Lighting Build
+[2022.02.28-10.37.27:291][692]LoadErrors: New page: Loading map: greybox.umap
+[2022.02.28-10.37.27:349][692]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.02.28-10.37.27:349][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-10.37.27:381][692]LogWorld: UWorld::CleanupWorld for lamymap, bSessionEnded=true, bCleanupResources=true
+[2022.02.28-10.37.27:381][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-10.37.27:381][692]MapCheck: New page: Map Check
+[2022.02.28-10.37.27:381][692]LightingResults: New page: Lighting Build
+[2022.02.28-10.37.27:398][692]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.28-10.37.27:403][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.28-10.37.27:404][692]LogAudio: Display: Audio Device (ID: 1) registered with world 'greybox'.
+[2022.02.28-10.37.27:412][692]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.28-10.37.27:412][692]LogAIModule: Creating AISystem for world greybox
+[2022.02.28-10.37.27:432][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.02.28-10.37.27:443][692]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.28-10.37.27:443][692]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,071ms to complete.
+[2022.02.28-10.37.27:443][692]LogFileHelpers: Loading map 'greybox' took 0.152
+[2022.02.28-10.37.28:597][757]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.28-10.37.28:606][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.28-10.37.28:607][757]PIE: New page: PIE session: greybox (28 févr. 2022 à 12:37:28)
+[2022.02.28-10.37.28:608][757]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.28-10.37.28:609][757]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.28-10.37.28:610][757]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_greybox
+[2022.02.28-10.37.28:625][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015001s)
+[2022.02.28-10.37.28:627][757]LogAIModule: Creating AISystem for world greybox
+[2022.02.28-10.37.28:627][757]LogPlayLevel: PIE: World Init took: (0.002249s)
+[2022.02.28-10.37.28:627][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/greybox.greybox to /Game/Maps/UEDPIE_0_greybox.greybox (0.017586s)
+[2022.02.28-10.37.28:649][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.02.28-10.37.28:649][757]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.28-10.37.28:649][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.28-10.37.28:649][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.28-10.37.28:649][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.28-10.37.28:649][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.28-10.37.28:649][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.28-10.37.28:649][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.28-10.37.28:649][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.28-10.37.28:649][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.28-10.37.28:650][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.28-10.37.28:650][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.28-10.37.28:650][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.28-10.37.28:650][757]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.28-10.37.28:653][757]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.28-10.37.28:653][757]LogAudioMixer: Display: 1: FrontRight
+[2022.02.28-10.37.28:664][757]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.02.28-10.37.28:664][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.28-10.37.28:664][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.28-10.37.28:664][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.28-10.37.28:664][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.28-10.37.28:664][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.28-10.37.28:664][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.28-10.37.28:665][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.28-10.37.28:665][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.28-10.37.28:665][757]LogInit: FAudioDevice initialized.
+[2022.02.28-10.37.28:665][757]LogAudio: Display: Audio Device (ID: 2) registered with world 'greybox'.
+[2022.02.28-10.37.28:672][757]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.28-10.37.28:675][757]LogWorld: Bringing World /Game/Maps/UEDPIE_0_greybox.greybox up for play (max tick rate 60) at 2022.02.28-11.37.28
+[2022.02.28-10.37.28:675][757]LogWorld: Bringing up level for play took: 0.002207
+[2022.02.28-10.37.28:675][757]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.02.28-10.37.28:678][757]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.02.28-10.37.28:755][757]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.28-10.37.28:776][757]LogScript: Warning: Accessed None trying to read property StartEndUI
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:ExecuteUbergraph_greybox:00FC
+[2022.02.28-10.37.28:776][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StartEndUI". Blueprint:  greybox Function:  Execute Ubergraph Greybox Graph:  EventGraph Node:  Set Visibility
+[2022.02.28-10.37.28:776][757]LogScript: Warning: Accessed None
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:ExecuteUbergraph_greybox:0111
+[2022.02.28-10.37.28:776][757]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  greybox Function:  Execute Ubergraph Greybox Graph:  EventGraph Node:  Set Visibility
+[2022.02.28-10.37.28:776][757]LogScript: Warning: Accessed None trying to read property StartEndUI
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:ExecuteUbergraph_greybox:0139
+[2022.02.28-10.37.28:776][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property StartEndUI". Blueprint:  greybox Function:  Execute Ubergraph Greybox Graph:  EventGraph Node:  Add to Viewport
+[2022.02.28-10.37.28:777][757]PIE: Server logged in
+[2022.02.28-10.37.28:778][757]PIE: Play in editor total start time 0,176 seconds.
+[2022.02.28-10.37.32:972][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.28-10.37.32:972][988]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_greybox
+[2022.02.28-10.37.32:972][988]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.02.28-10.37.32:973][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-10.37.32:981][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.28-10.37.32:985][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-10.37.33:012][988]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.28-10.37.33:012][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.28-10.37.33:013][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.28-10.37.33:015][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.28-10.37.33:047][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.02.28-10.37.33:145][989]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.02.28-10.37.39:313][348]LogSlate: Window 'Message Log' being destroyed
+[2022.02.28-10.37.39:323][348]LogSlate: Window 'Message Log' being destroyed
+[2022.02.28-10.37.44:151][633]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/greybox.greybox:PersistentLevel.greybox
+[2022.02.28-10.37.59:878][536]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.28-10.38.11:830][249]BlueprintLog: New page: Compile greybox
+[2022.02.28-10.38.11:896][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.02.28-10.38.12:550][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.28-10.38.12:574][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.02.28-10.38.12:604][285]LogSavePackage: Moving '../../../../../unreal/SpiritTemple/SpiritTemple/Saved/greybox05165A3841EDB60D5BFD7F91202E3AD3.tmp' to '../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.02.28-10.38.12:618][285]LogFileHelpers: Saving map 'greybox' took 0.069
+[2022.02.28-10.38.12:638][285]AssetCheck: New page: Asset Save: greybox
+[2022.02.28-10.38.12:638][285]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.02.28-10.38.14:163][375]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.28-10.38.14:175][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.28-10.38.14:175][375]PIE: New page: PIE session: greybox (28 févr. 2022 à 12:38:14)
+[2022.02.28-10.38.14:199][375]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_greybox
+[2022.02.28-10.38.14:215][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015597s)
+[2022.02.28-10.38.14:216][375]LogAIModule: Creating AISystem for world greybox
+[2022.02.28-10.38.14:216][375]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2022.02.28-10.38.14:216][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/greybox.greybox to /Game/Maps/UEDPIE_0_greybox.greybox (0.017037s)
+[2022.02.28-10.38.14:246][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.02.28-10.38.14:246][375]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.28-10.38.14:246][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.28-10.38.14:246][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.28-10.38.14:247][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.28-10.38.14:247][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.28-10.38.14:247][375]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.28-10.38.14:247][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.28-10.38.14:247][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.28-10.38.14:247][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.28-10.38.14:247][375]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.28-10.38.14:247][375]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.28-10.38.14:247][375]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.28-10.38.14:247][375]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.28-10.38.14:249][375]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.28-10.38.14:249][375]LogAudioMixer: Display: 1: FrontRight
+[2022.02.28-10.38.14:258][375]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.02.28-10.38.14:259][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.28-10.38.14:259][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.28-10.38.14:259][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.28-10.38.14:259][375]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.28-10.38.14:259][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.28-10.38.14:259][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.28-10.38.14:260][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.28-10.38.14:260][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.28-10.38.14:260][375]LogInit: FAudioDevice initialized.
+[2022.02.28-10.38.14:260][375]LogAudio: Display: Audio Device (ID: 3) registered with world 'greybox'.
+[2022.02.28-10.38.14:271][375]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.28-10.38.14:273][375]LogWorld: Bringing World /Game/Maps/UEDPIE_0_greybox.greybox up for play (max tick rate 60) at 2022.02.28-11.38.14
+[2022.02.28-10.38.14:274][375]LogWorld: Bringing up level for play took: 0.001826
+[2022.02.28-10.38.14:274][375]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.02.28-10.38.14:275][375]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.02.28-10.38.14:276][375]PIE: Server logged in
+[2022.02.28-10.38.14:277][375]PIE: Play in editor total start time 0,108 seconds.
+[2022.02.28-10.38.19:041][654]LogBlueprintUserMessages: [BP_DestroyableMeshBlock_2] Hello
+[2022.02.28-10.38.31:742][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.28-10.38.31:742][405]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_greybox
+[2022.02.28-10.38.31:743][405]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.02.28-10.38.31:743][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-10.38.31:753][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.28-10.38.31:757][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-10.38.31:776][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.28-10.38.31:776][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.28-10.38.31:777][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.28-10.38.31:782][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.02.28-10.38.31:816][407]LogPlayLevel: Display: Destroying online subsystem :Context_18
