@@ -926,3 +926,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.01-12.38.41:384][  0]LogSavePackage: Moving 'C:/WorkSpace_gp2/GitHub/SpiritTemple/SpiritTemple/Saved/greybox77AD16FE436EEEA3BF155FB90D575E50.tmp' to 'C:/WorkSpace_gp2/GitHub/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
 [2022.03.01-12.38.41:400][  0]AssetCheck: New page: Asset Save: greybox
 [2022.03.01-12.38.41:400][  0]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.03.01-12.38.57:218][ 95]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.03.01-12.38.59:568][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
