@@ -2574,3 +2574,395 @@ Make sure 'PauseMenu_C' has been compiled for  Get PauseMenu
 [2022.03.01-10.20.09:997][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.03.01-10.20.10:001][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
 [2022.03.01-10.20.10:033][116]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.03.01-10.26.39:137][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.03.01-10.26.39:160][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/lamymap" FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Saved/Autosaves/Game/Maps/lamymap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.03.01-10.26.39:200][913]LogSavePackage: Moving '../../../../../unreal/SpiritTemple/SpiritTemple/Saved/lamymap_Auto3C02784E54857C2236DE74584CD0DAE31.tmp' to '../../../../../unreal/SpiritTemple/SpiritTemple/Saved/Autosaves/Game/Maps/lamymap_Auto3.umap'
+[2022.03.01-10.26.39:231][913]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/lamymap' took 0.153
+[2022.03.01-10.26.39:231][913]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.153
+[2022.03.01-10.27.23:282][138]BlueprintLog: New page: Compile lamymap
+[2022.03.01-10.27.23:336][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.03.01-10.27.24:087][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/lamymap" FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/lamymap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.01-10.27.24:116][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.03.01-10.27.24:153][180]LogSavePackage: Moving '../../../../../unreal/SpiritTemple/SpiritTemple/Saved/lamymap2EA6282D4F2FB7B864D5E69459541920.tmp' to '../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/lamymap.umap'
+[2022.03.01-10.27.24:203][180]LogFileHelpers: Saving map 'lamymap' took 0.117
+[2022.03.01-10.27.24:219][180]AssetCheck: New page: Asset Save: lamymap
+[2022.03.01-10.27.24:219][180]LogContentValidation: Display: Validating World /Game/Maps/lamymap.lamymap
+[2022.03.01-10.27.31:251][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.03.01-10.27.33:220][575]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/greybox.greybox
+[2022.03.01-10.27.33:239][575]Cmd: MAP LOAD FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.01-10.27.33:239][575]LightingResults: New page: Lighting Build
+[2022.03.01-10.27.33:255][575]LoadErrors: New page: Loading map: greybox.umap
+[2022.03.01-10.27.33:299][575]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.27.33:299][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.27.33:478][575]LogWorld: UWorld::CleanupWorld for lamymap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.27.33:495][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.27.33:495][575]MapCheck: New page: Map Check
+[2022.03.01-10.27.33:495][575]LightingResults: New page: Lighting Build
+[2022.03.01-10.27.33:535][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-10.27.33:603][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.03.01-10.27.33:608][575]LogAudio: Display: Audio Device (ID: 1) registered with world 'greybox'.
+[2022.03.01-10.27.33:737][575]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.01-10.27.33:737][575]LogAIModule: Creating AISystem for world greybox
+[2022.03.01-10.27.33:767][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.03.01-10.27.33:777][575]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.01-10.27.33:777][575]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,075ms to complete.
+[2022.03.01-10.27.33:777][575]LogFileHelpers: Loading map 'greybox' took 0.558
+[2022.03.01-10.27.39:485][892]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/greybox.greybox:PersistentLevel.greybox
+[2022.03.01-10.27.51:128][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.03.01-10.27.51:347][560]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/lamymap.lamymap
+[2022.03.01-10.27.51:347][560]Cmd: MAP LOAD FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/lamymap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.01-10.27.51:348][560]LightingResults: New page: Lighting Build
+[2022.03.01-10.27.51:348][560]LoadErrors: New page: Loading map: lamymap.umap
+[2022.03.01-10.27.51:368][560]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.27.51:369][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.27.51:455][560]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.27.51:455][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.27.51:455][560]MapCheck: New page: Map Check
+[2022.03.01-10.27.51:455][560]LightingResults: New page: Lighting Build
+[2022.03.01-10.27.51:480][560]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-10.27.51:487][560]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.03.01-10.27.51:488][560]LogAudio: Display: Audio Device (ID: 1) registered with world 'lamymap'.
+[2022.03.01-10.27.51:496][560]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.01-10.27.51:496][560]LogAIModule: Creating AISystem for world lamymap
+[2022.03.01-10.27.51:530][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.03.01-10.27.51:590][560]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.01-10.27.51:591][560]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,073ms to complete.
+[2022.03.01-10.27.51:591][560]LogFileHelpers: Loading map 'lamymap' took 0.243
+[2022.03.01-10.27.53:699][672]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/lamymap.lamymap:PersistentLevel.lamymap
+[2022.03.01-10.28.02:139][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.03.01-10.28.02:227][146]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/greybox.greybox
+[2022.03.01-10.28.02:227][146]Cmd: MAP LOAD FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.01-10.28.02:227][146]LightingResults: New page: Lighting Build
+[2022.03.01-10.28.02:227][146]LoadErrors: New page: Loading map: greybox.umap
+[2022.03.01-10.28.02:250][146]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.28.02:250][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.28.02:290][146]LogWorld: UWorld::CleanupWorld for lamymap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.28.02:290][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.28.02:291][146]MapCheck: New page: Map Check
+[2022.03.01-10.28.02:291][146]LightingResults: New page: Lighting Build
+[2022.03.01-10.28.02:316][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-10.28.02:322][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.03.01-10.28.02:324][146]LogAudio: Display: Audio Device (ID: 1) registered with world 'greybox'.
+[2022.03.01-10.28.02:370][146]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.01-10.28.02:370][146]LogAIModule: Creating AISystem for world greybox
+[2022.03.01-10.28.02:404][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.03.01-10.28.02:415][146]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.01-10.28.02:415][146]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,074ms to complete.
+[2022.03.01-10.28.02:415][146]LogFileHelpers: Loading map 'greybox' took 0.188
+[2022.03.01-10.28.04:603][268]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/greybox.greybox:PersistentLevel.greybox
+[2022.03.01-10.28.06:975][388]LogBlueprint: Warning: [AssetLog] D:\unreal\SpiritTemple\SpiritTemple\Content\Maps\greybox.umap: [Compiler] Pasted node  CustomEvent   conflicted with  Event BeginPlay  and was replaced as a Custom Event!
+[2022.03.01-10.28.07:014][388]LogProperty: Warning: Illegal TEXT reference to a private object in external package (EndTrigger_C /Game/Maps/lamymap.lamymap:PersistentLevel.EndTrigger_2) from referencer (K2Node_ActorBoundEvent /Game/Maps/greybox.greybox:PersistentLevel.greybox.EventGraph.K2Node_ActorBoundEvent_0).  Import failed...
+[2022.03.01-10.28.07:014][388]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_ActorBoundEvent:EventOwner: unresolved reference to 'EndTrigger_C'"/Game/Maps/lamymap.lamymap:PersistentLevel.EndTrigger_2"''
+[2022.03.01-10.28.08:992][388]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2022.03.01-10.29.43:044][906]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.03.01-10.29.52:066][360]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.03.01-10.29.53:609][444]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.03.01-10.29.53:616][444]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.03.01-10.30.00:831][868]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.01-10.30.00:854][868]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.01-10.30.00:854][868]LogEditorClassViewer: Warning: Class /Game/Maps/lamymap.PLACEHOLDER-CLASS__StartEndUi_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.01-10.30.00:854][868]LogEditorClassViewer: Warning: Class /Game/Maps/lamymap.PLACEHOLDER-CLASS__PlayerUi_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.01-10.30.00:854][868]LogEditorClassViewer: Warning: Class /Game/Maps/lamymap.PLACEHOLDER-CLASS__PauseMenu_C_2 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.01-10.30.28:072][404]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.03.01-10.30.29:443][480]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.03.01-10.30.29:449][480]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.03.01-10.31.06:910][665]BlueprintLog: New page: Compile greybox
+[2022.03.01-10.31.06:913][665]LogBlueprint: Warning: [AssetLog] D:\unreal\SpiritTemple\SpiritTemple\Content\Maps\greybox.umap: [Compiler] OnActorBeginOverlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2022.03.01-10.31.06:915][665]LogBlueprint: Error: [AssetLog] D:\unreal\SpiritTemple\SpiritTemple\Content\Maps\greybox.umap: [Compiler] Couldn't find object for bound event node  OnActorBeginOverlap (None)
+[2022.03.01-10.31.06:985][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.03.01-10.31.07:386][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.01-10.31.07:417][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.03.01-10.31.07:452][686]LogSavePackage: Moving '../../../../../unreal/SpiritTemple/SpiritTemple/Saved/greybox4DF0CEB846CCCDA3356D1B85CD98A386.tmp' to '../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.03.01-10.31.07:486][686]LogFileHelpers: Saving map 'greybox' took 0.101
+[2022.03.01-10.31.07:542][686]AssetCheck: New page: Asset Save: greybox
+[2022.03.01-10.31.07:542][686]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.03.01-10.31.26:122][783]LogEditorViewport: Clicking on Actor (LMB): BP_door_C (BP_door2)
+[2022.03.01-10.31.27:572][865]LogEditorViewport: Clicking on Actor (LMB): BP_door_C (BP_door2)
+[2022.03.01-10.31.28:147][899]LogEditorViewport: Clicking on Actor (LMB): BP_door_C (BP_door2)
+[2022.03.01-10.31.28:603][926]LogEditorViewport: Clicking on Actor (LMB): EndTrigger_C (EndTrigger)
+[2022.03.01-10.31.53:148][367]BlueprintLog: New page: Compile greybox
+[2022.03.01-10.31.53:199][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.03.01-10.31.53:733][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.01-10.31.53:765][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.03.01-10.31.53:801][395]LogSavePackage: Moving '../../../../../unreal/SpiritTemple/SpiritTemple/Saved/greybox51304F3B475F2569D5A30B9E0CA07104.tmp' to '../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.03.01-10.31.53:814][395]LogFileHelpers: Saving map 'greybox' took 0.081
+[2022.03.01-10.31.53:833][395]AssetCheck: New page: Asset Save: greybox
+[2022.03.01-10.31.53:833][395]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.03.01-10.32.06:768][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.03.01-10.32.06:788][148]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/lamymap.lamymap
+[2022.03.01-10.32.06:788][148]Cmd: MAP LOAD FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/lamymap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.01-10.32.06:788][148]LightingResults: New page: Lighting Build
+[2022.03.01-10.32.06:788][148]LoadErrors: New page: Loading map: lamymap.umap
+[2022.03.01-10.32.06:834][148]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.32.06:834][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.32.06:894][148]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.32.06:895][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.32.06:895][148]MapCheck: New page: Map Check
+[2022.03.01-10.32.06:895][148]LightingResults: New page: Lighting Build
+[2022.03.01-10.32.06:919][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-10.32.06:926][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.03.01-10.32.06:927][148]LogAudio: Display: Audio Device (ID: 1) registered with world 'lamymap'.
+[2022.03.01-10.32.06:964][148]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.01-10.32.06:964][148]LogAIModule: Creating AISystem for world lamymap
+[2022.03.01-10.32.07:011][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.03.01-10.32.07:023][148]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.01-10.32.07:023][148]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,072ms to complete.
+[2022.03.01-10.32.07:023][148]LogFileHelpers: Loading map 'lamymap' took 0.235
+[2022.03.01-10.32.09:567][291]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/lamymap.lamymap:PersistentLevel.lamymap
+[2022.03.01-10.32.17:740][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.03.01-10.32.17:808][753]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/greybox.greybox
+[2022.03.01-10.32.17:808][753]Cmd: MAP LOAD FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.01-10.32.17:808][753]LightingResults: New page: Lighting Build
+[2022.03.01-10.32.17:808][753]LoadErrors: New page: Loading map: greybox.umap
+[2022.03.01-10.32.17:865][753]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.32.17:865][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.32.17:904][753]LogWorld: UWorld::CleanupWorld for lamymap, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.32.17:904][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.32.17:904][753]MapCheck: New page: Map Check
+[2022.03.01-10.32.17:904][753]LightingResults: New page: Lighting Build
+[2022.03.01-10.32.17:930][753]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-10.32.17:937][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.03.01-10.32.17:938][753]LogAudio: Display: Audio Device (ID: 1) registered with world 'greybox'.
+[2022.03.01-10.32.17:946][753]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.01-10.32.17:946][753]LogAIModule: Creating AISystem for world greybox
+[2022.03.01-10.32.17:978][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.03.01-10.32.17:991][753]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.01-10.32.17:992][753]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,105ms to complete.
+[2022.03.01-10.32.17:992][753]LogFileHelpers: Loading map 'greybox' took 0.184
+[2022.03.01-10.32.20:159][875]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/greybox.greybox:PersistentLevel.greybox
+[2022.03.01-10.32.44:604][277]BlueprintLog: New page: Compile greybox
+[2022.03.01-10.32.44:658][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.03.01-10.32.45:309][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.01-10.32.45:342][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.03.01-10.32.45:409][312]LogSavePackage: Moving '../../../../../unreal/SpiritTemple/SpiritTemple/Saved/greybox2AA68AAA486F2C82E4A31CAA0CA8FDF6.tmp' to '../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.03.01-10.32.45:423][312]LogFileHelpers: Saving map 'greybox' took 0.113
+[2022.03.01-10.32.45:439][312]AssetCheck: New page: Asset Save: greybox
+[2022.03.01-10.32.45:439][312]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.03.01-10.32.47:122][411]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-10.32.47:130][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-10.32.47:130][411]PIE: New page: PIE session: greybox (1 mars 2022 à 12:32:47)
+[2022.03.01-10.32.47:155][411]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_greybox
+[2022.03.01-10.32.47:192][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037404s)
+[2022.03.01-10.32.47:193][411]LogAIModule: Creating AISystem for world greybox
+[2022.03.01-10.32.47:193][411]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2022.03.01-10.32.47:193][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/greybox.greybox to /Game/Maps/UEDPIE_0_greybox.greybox (0.038589s)
+[2022.03.01-10.32.47:227][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.03.01-10.32.47:228][411]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.03.01-10.32.47:228][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-10.32.47:228][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-10.32.47:228][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-10.32.47:228][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-10.32.47:228][411]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-10.32.47:228][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-10.32.47:228][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-10.32.47:228][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-10.32.47:228][411]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-10.32.47:228][411]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-10.32.47:228][411]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-10.32.47:228][411]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-10.32.47:231][411]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-10.32.47:231][411]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-10.32.47:239][411]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.03.01-10.32.47:239][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-10.32.47:240][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-10.32.47:240][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-10.32.47:240][411]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-10.32.47:240][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-10.32.47:240][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-10.32.47:241][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-10.32.47:241][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-10.32.47:241][411]LogInit: FAudioDevice initialized.
+[2022.03.01-10.32.47:241][411]LogAudio: Display: Audio Device (ID: 24) registered with world 'greybox'.
+[2022.03.01-10.32.47:252][411]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.01-10.32.47:308][411]LogWorld: Bringing World /Game/Maps/UEDPIE_0_greybox.greybox up for play (max tick rate 60) at 2022.03.01-11.32.47
+[2022.03.01-10.32.47:309][411]LogWorld: Bringing up level for play took: 0.054683
+[2022.03.01-10.32.47:309][411]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.03.01-10.32.47:310][411]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.01-10.32.47:329][411]LogScript: Warning: Accessed None trying to read property PlayerUi
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:ExecuteUbergraph_greybox:0310
+[2022.03.01-10.32.47:329][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerUi". Blueprint:  greybox Function:  Execute Ubergraph Greybox Graph:  EventGraph Node:  Add to Viewport
+[2022.03.01-10.32.47:329][411]PIE: Server logged in
+[2022.03.01-10.32.47:330][411]PIE: Play in editor total start time 0,203 seconds.
+[2022.03.01-10.32.49:144][517]LogScript: Warning: Accessed None trying to read property PlayerUi
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:0051
+[2022.03.01-10.32.49:144][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerUi". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:144][517]LogScript: Warning: Accessed None
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:0066
+[2022.03.01-10.32.49:144][517]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:144][517]LogScript: Warning: Accessed None trying to read property PlayerUi
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:00D5
+[2022.03.01-10.32.49:144][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerUi". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:144][517]LogScript: Warning: Accessed None
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:00EA
+[2022.03.01-10.32.49:144][517]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:144][517]LogScript: Warning: Accessed None trying to read property PlayerUi
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:0159
+[2022.03.01-10.32.49:144][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerUi". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:144][517]LogScript: Warning: Accessed None
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:016E
+[2022.03.01-10.32.49:144][517]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:144][517]LogScript: Warning: Accessed None trying to read property PlayerUi
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:01DD
+[2022.03.01-10.32.49:144][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerUi". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:144][517]LogScript: Warning: Accessed None
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:01F2
+[2022.03.01-10.32.49:144][517]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:144][517]LogScript: Warning: Accessed None trying to read property PlayerUi
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:0294
+[2022.03.01-10.32.49:144][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerUi". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:144][517]LogScript: Warning: Accessed None
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:02A9
+[2022.03.01-10.32.49:144][517]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:293][526]LogScript: Warning: Accessed None trying to read property PlayerUi
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:0051
+[2022.03.01-10.32.49:293][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerUi". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:293][526]LogScript: Warning: Accessed None
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:0066
+[2022.03.01-10.32.49:293][526]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:293][526]LogScript: Warning: Accessed None trying to read property PlayerUi
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:00D5
+[2022.03.01-10.32.49:293][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerUi". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:293][526]LogScript: Warning: Accessed None
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:00EA
+[2022.03.01-10.32.49:293][526]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:293][526]LogScript: Warning: Accessed None trying to read property PlayerUi
+	greybox_C /Game/Maps/UEDPIE_0_greybox.greybox:PersistentLevel.greybox_C_0
+	Function /Game/Maps/greybox.greybox_C:Select Power Ui:0159
+[2022.03.01-10.32.49:293][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerUi". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:293][526]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:293][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerUi". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:294][526]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:294][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PlayerUi". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:294][526]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  greybox Function:  Select Power Ui Graph:  Select Power Ui Node:  Set Color and Opacity
+[2022.03.01-10.32.49:608][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-10.32.49:608][543]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_greybox
+[2022.03.01-10.32.49:608][543]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.32.49:609][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.32.49:615][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-10.32.49:620][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.32.49:646][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-10.32.49:646][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-10.32.49:648][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-10.32.49:653][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.03.01-10.32.49:892][544]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.03.01-10.32.55:468][865]LogBlueprint: Warning: Unknown type of hyperlinked object (greybox), cannot focus it
+[2022.03.01-10.32.55:468][865]LogBlueprint: Warning: Unknown type of hyperlinked object (greybox), cannot focus it
+[2022.03.01-10.32.56:443][924]LogSlate: Window 'Message Log' being destroyed
+[2022.03.01-10.32.56:449][924]LogSlate: Window 'Message Log' being destroyed
+[2022.03.01-10.33.46:316][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.01-10.33.46:350][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.03.01-10.33.46:394][865]LogSavePackage: Moving '../../../../../unreal/SpiritTemple/SpiritTemple/Saved/greyboxDB9BB7194B40713453E0CBB6D4AC4145.tmp' to '../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.03.01-10.33.46:407][865]LogFileHelpers: Saving map 'greybox' took 0.091
+[2022.03.01-10.33.46:425][865]AssetCheck: New page: Asset Save: greybox
+[2022.03.01-10.33.46:425][865]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.03.01-10.33.51:878][182]BlueprintLog: New page: Compile greybox
+[2022.03.01-10.33.51:931][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.03.01-10.33.52:376][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.01-10.33.52:407][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.03.01-10.33.52:450][204]LogSavePackage: Moving '../../../../../unreal/SpiritTemple/SpiritTemple/Saved/greybox5E4A89CA406E7257759275A58003E409.tmp' to '../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.03.01-10.33.52:463][204]LogFileHelpers: Saving map 'greybox' took 0.087
+[2022.03.01-10.33.52:485][204]AssetCheck: New page: Asset Save: greybox
+[2022.03.01-10.33.52:485][204]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.03.01-10.34.00:931][703]BlueprintLog: New page: Compile greybox
+[2022.03.01-10.34.00:986][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.03.01-10.34.01:635][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/greybox" FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.01-10.34.01:667][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.03.01-10.34.01:710][733]LogSavePackage: Moving '../../../../../unreal/SpiritTemple/SpiritTemple/Saved/greyboxE3E34D054DD479CE2F001CB8744BD533.tmp' to '../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/greybox.umap'
+[2022.03.01-10.34.01:722][733]LogFileHelpers: Saving map 'greybox' took 0.087
+[2022.03.01-10.34.01:739][733]AssetCheck: New page: Asset Save: greybox
+[2022.03.01-10.34.01:739][733]LogContentValidation: Display: Validating World /Game/Maps/greybox.greybox
+[2022.03.01-10.34.09:211][175]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.01-10.34.09:221][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.01-10.34.09:221][175]PIE: New page: PIE session: greybox (1 mars 2022 à 12:34:09)
+[2022.03.01-10.34.09:244][175]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_greybox
+[2022.03.01-10.34.09:262][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017824s)
+[2022.03.01-10.34.09:263][175]LogAIModule: Creating AISystem for world greybox
+[2022.03.01-10.34.09:263][175]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2022.03.01-10.34.09:263][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/greybox.greybox to /Game/Maps/UEDPIE_0_greybox.greybox (0.019318s)
+[2022.03.01-10.34.09:303][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.03.01-10.34.09:304][175]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.03.01-10.34.09:304][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.01-10.34.09:304][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.01-10.34.09:304][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.01-10.34.09:304][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.01-10.34.09:304][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.01-10.34.09:304][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.01-10.34.09:304][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.01-10.34.09:304][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.01-10.34.09:305][175]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.01-10.34.09:305][175]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.01-10.34.09:305][175]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.01-10.34.09:305][175]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.01-10.34.09:307][175]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.01-10.34.09:307][175]LogAudioMixer: Display: 1: FrontRight
+[2022.03.01-10.34.09:315][175]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.03.01-10.34.09:315][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.01-10.34.09:316][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.01-10.34.09:316][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.01-10.34.09:316][175]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.01-10.34.09:316][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.01-10.34.09:316][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.01-10.34.09:317][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.01-10.34.09:317][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.01-10.34.09:317][175]LogInit: FAudioDevice initialized.
+[2022.03.01-10.34.09:317][175]LogAudio: Display: Audio Device (ID: 25) registered with world 'greybox'.
+[2022.03.01-10.34.09:326][175]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.01-10.34.09:329][175]LogWorld: Bringing World /Game/Maps/UEDPIE_0_greybox.greybox up for play (max tick rate 60) at 2022.03.01-11.34.09
+[2022.03.01-10.34.09:329][175]LogWorld: Bringing up level for play took: 0.001889
+[2022.03.01-10.34.09:329][175]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.03.01-10.34.09:331][175]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.01-10.34.09:332][175]PIE: Server logged in
+[2022.03.01-10.34.09:333][175]PIE: Play in editor total start time 0,117 seconds.
+[2022.03.01-10.34.13:735][433]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.03.01-10.34.13:735][433]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.03.01-10.34.13:735][433]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.03.01-10.34.14:799][497]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.03.01-10.34.14:800][497]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.03.01-10.34.17:911][681]LogBlueprintUserMessages: [BP_DestroyableMeshBlock_2] Hello
+[2022.03.01-10.34.20:227][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-10.34.20:227][788]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_greybox
+[2022.03.01-10.34.20:227][788]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.34.20:228][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.34.20:240][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.01-10.34.20:245][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.34.20:273][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-10.34.20:273][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-10.34.20:274][788]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.01-10.34.20:276][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.01-10.34.20:280][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.03.01-10.34.20:304][789]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.03.01-10.34.22:546][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.03.01-10.34.22:570][920]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/lamymap.lamymap
+[2022.03.01-10.34.22:570][920]Cmd: MAP LOAD FILE="../../../../../unreal/SpiritTemple/SpiritTemple/Content/Maps/lamymap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.01-10.34.22:570][920]LightingResults: New page: Lighting Build
+[2022.03.01-10.34.22:570][920]LoadErrors: New page: Loading map: lamymap.umap
+[2022.03.01-10.34.22:595][920]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.34.22:595][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.34.22:636][920]LogWorld: UWorld::CleanupWorld for greybox, bSessionEnded=true, bCleanupResources=true
+[2022.03.01-10.34.22:636][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.01-10.34.22:636][920]MapCheck: New page: Map Check
+[2022.03.01-10.34.22:636][920]LightingResults: New page: Lighting Build
+[2022.03.01-10.34.22:662][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.01-10.34.22:688][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.03.01-10.34.22:689][920]LogAudio: Display: Audio Device (ID: 1) registered with world 'lamymap'.
+[2022.03.01-10.34.22:698][920]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.01-10.34.22:698][920]LogAIModule: Creating AISystem for world lamymap
+[2022.03.01-10.34.22:729][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.03.01-10.34.22:739][920]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.01-10.34.22:739][920]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2022.03.01-10.34.22:739][920]LogFileHelpers: Loading map 'lamymap' took 0.169
